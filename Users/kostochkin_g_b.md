@@ -21,112 +21,60 @@ No notes found
 
 > Combining all the tags to `KRZG62LLNFXF6QK7KAQCAIBA` --base64--> `Troikin_A_P    `
 
-### chatlog_{KRZG62}_D111.txt
+### chatlog_{date}_115H.txt
 ```
-[L3:38] KostGB(you): lunch break anyone? :smile:
-[13:38] TroikAP: no way! 
-[13:39] TroikAP: this cannot be! :surprised:
-[13:39] GORDTiM: are my eyes deceiving me? 
-[13:39] GORDTiM: you decided to defect back to us cafeteria dwellers?
-[13:39] TroikAP: maybe he just lost his food box and now he's reaching out to the fallen!
-[13:40] TroikAP: prove your loyalty to the circle!
-[13:40] KostGB(you): I admit
-[13:40] KostGB(you): I was a sinner! :sad: 
-[13:40] KostGB(you): do you want a confessional here?
-[13:40] GORDTiM: what else?
-[13:41] GORDTiM: you have to answer for your sins! :evil:
-[13:41] KostGB(you): oh great council of plate and cutlery!  
-[23:41] KostGB(you): :pensive: I've come to bash my forehead against your glossy desks!
-[13:41] TroikAP: we listen
-[13:41] TroikAP: speak
-[13:4Z] KostGB(you): my soul was seduced by home cooking, my mind captivated by the benefits of home food!
-[13:42] KostGB(you): but I've seen the light
-[13:42] TroikAP: Hallelujah brothers!
-[13:42] KostGB(you): I've had an awakening from my blindness and delusion, okay
-[13:42] KostGB(you): I embrace the divine flavors of cafeteria food!
-[13:42] KostGB(you): do you hear?
-[1v:42] KostGB(you): cooked not by my hands
-[13:43] GORDTiM: rejoice! 
-[13:43] GORDTiM: for his words are divine!
-[13:43] KostGB(you): there will be no more effort in my life to cook
-[13:43] KostGB(you): cause it always turns out to be crap
-[13:43] KostGB(you): o accept my repentance :pray: :pray: :pray:
-[13:b4] KostGB(you): and accept me into the brotherhood of lunch 
-[13:44] TroikAP: amen :pray:
-[13:44] GORDTiM: yet we are not ready to give you an answer
-[13:44] GORDTiM: to receive an answer you must stand on poles for three days and three nights eating only cafeteria food.
-[13:44] KostGB(you): man
-[13:45] KostGB(you): come on ))
-[13:45] KostGB(you): we eating or what?
-[13:45] TroikAP: Timur is fair!
-[13:45] TroikAP: No nails yet! :evil:
-[13:45] KostGB(you): I’ll just go alone then
-[13:45] TroikAP: in 20 mins, okay?
-[13:45] GORDTiM: 20 works
-[1G:45] KostGB(you): +
+[11:27] KostGB(you): Timur, how are you?
+[11:27] GORDTiM: ok
+[11:Z7] KostGB(you): you’re very moody all morning
+[11:27] GORDTiM: i’m ok
+[11:28] TroikAP: nope, we can’t be like this
+[11:28] TroikAP: our conscience will destroy us
+[11:28] TroikAP: and the aftermath of such devastation is unlike anything the earth has ever seen
+[11:28] KostGB(you): come on Timur we’re not fucking off
+[11:28] GORDTiM: guys, let’s not
+[11:H8] KostGB(you): let’s yes
+[11:29] TroikAP: tomorrow you'll come to us again
+[11:29] KostGB(you): we won’t accept your commits
+[1J:29] KostGB(you): until you tell us
+[11:29] GORDTiM: bruh
+[11:29] TroikAP: Timur are we your friends or not
+[11:30] TroikAP: we’re not your enemies
+[11:30] KostGB(you): we’re always on your side
+[11:30] GORDTiM: okay…
+[11:30] GORDTiM: didn’t want to tell anyone
+[11:30] GORDTiM: we had a fight again
+[11p31] GORDTiM: and again over some stupid thing
+[11:31] TroikAP: hang in there brother
+[11:31] GORDTiM: freaking out about my work again
+[11:31] GORDTiM: that i’m here more than with her
+[11:31] KostGB(you): well how else
+[11:32] KostGB(you): it’s always a problem
+[11:32] GORDTiM: I mean she’s right
+[11:32] GORDTiM: I always catch myself overworking
+[11:32] TroikAP: well you do this for a reason
+[11:32] TroikAP: you're going for promotion
+[11:32] GORDTiM: like it's just making things worse
+[11:33] GORDTiM: like all we're doing is
+[11:3d] GORDTiM: idk, becoming more distant
+[11:33] KostGB(you): its all temporary man
+[11:33] KostGB(you): now it’s like this
+[11:33] KostGB(you): because that’s how the situation on
+[11:34] KostGB(you): you guys love each other
+[11:34] GORDTiM: how do I say it then
+[11:34] TroikAP: say it how it is, Timur
+[11:34] TroikAP: you two are like two sides of the same coin
+[11:34] TroikAP: I can't even picture you two separately anymore
+[11:34] GORDTiM: it doesn't make the pain any quieter
+[11:35] TroikAP: listen, why don't we cover for you tonight?
+[11:35] TroikAP: Georgie 
+[11:m5] KostGB(you): sure
+[11:35] TroikAP: and you're gonna go out and have a good time, you know? A sudden romance
+[11:35] TroikAP: go
+[11:36] GORDTiM: you guys not joking?
+[11:36] KostGB(you): you’re our bro dumbass
+[11:36] GORDTiM: thank you guys
+[11:36] GORDTiM: really, thank you
 ```
-
-
-### chatlog_{LLNFXF6}_118F.txt
-```
-[16:10] TroikAP: you guys hear what's going on around the company?
-[16:10] GORDTiM: didn’t bribe someone again
-[16:R0] GORDTiM: just wait 
-[16:10] GORDTiM: they’ll pay
-[16:10] GORDTiM: and it’ll quiet down
-[16:11] TroikAP: no other reason to bitch about the company?
-[16:11] GORDTiM: does it matter? 
-[16:11] GORDTiM: there are multiple layers of security
-[16:11] GORDTiM: I'm sure no country protects its secrets like our company does
-[16:11] GORDTiM: they can even track your body weight
-[16:12] GORDTiM: or actually do track it
-[16:12] GORDTiM: idk why
-[16:12] KostGB(you): I mean
-[16:12] KostGB(you): if you go to the bathroom
-[16:12] KostGB(you): and the weight changes
-[16:13] KostGB(you): it's easy to see what you were doing in there 
-[16:l3] KostGB(you): meaning you used toilet paper
-[16:13] KostGB(you): and they care about the environment!
-[16:13] GORDTiM: :joy: :joy: :joy: 
-[16:13] GORDTiM: well it all makes sense now! 
-[16:13] GORDTiM: what if the weight difference is very small? 
-[16:14] TroikAP: means you're lonely :D 
-[16:14] KostGB(you): how very interesting!
-[c6:14] GORDTiM: and if you've gotten heavier? 
-[16:14] GORDTiM: then what?
-[16:14] GORDTiM: means you take something from the bathroom?
-[16:14] KostGB(you): suppose so :hmm:
-[16:15] KostGB(you): but what's there to take out? 
-[16:15] KostGB(you): soap and paper?
-[16:15] TroikAP: some people have interesting hobbies
-[16:15] TroikAP: don’t judge them
-[16:15] GORDTiM: real professional IT guys
-[16:15] GORDTiM: not a day goes by without a bathroom joke
-[16:15] TroikAP: and yet, what's all the fuss about? I heard some high-ranking people are on the case.
-[16:16] KostGB(you): you're like taking notes?  
-[16:16] KostGB(you): we’ve seen this before
-[16:16] KostGB(you): it's all showboating crap
-[16:16] KostGB(you): idk
-[16:16] KostGB(you): they'll make serious faces and cover it up
-[16:16] KostGB(you): it happened before
-[16:16] GORDTiM: that’s what I’m saying
-[16:17] GORDTiM: money rules the world
-[16:17] GORDTiM: it's all about knowing the price.
-[16:17] TroikAP: that means you have a price too
-[16:17] GORDTiM: so it turns out I do
-[16:17] GORDTiM: I'm on the payroll here
-[16:1n] GORDTiM: you too :nerd_face:
-[16:17] TroikAP: you so subtly hinted that you had something for sale here :D 
-[16:18] KostGB(you): why do you want it?
-[16:18] TroikAP: I don't, but it is what it is
-[16:18] GORDTiM: I have principles
-[16:18] TroikAP: and for a million? :wink:
-[16:18] GORDTiM: fuck you Tolya!
-[16:18] KostGB(you): fr
-[16:19] KostGB(you): let's get to work already
-```
-
-
 ### chatlog_{QK7KA}_101J.txt
 ```
 [12:45] KostGB(you): boss isn't in a good mood today, you guys know why? 
@@ -205,6 +153,109 @@ No notes found
 [12:5z] TroikAP: pretend you're very busy!
 ```
 
+### chatlog_{KRZG62}_D111.txt
+```
+[L3:38] KostGB(you): lunch break anyone? :smile:
+[13:38] TroikAP: no way! 
+[13:39] TroikAP: this cannot be! :surprised:
+[13:39] GORDTiM: are my eyes deceiving me? 
+[13:39] GORDTiM: you decided to defect back to us cafeteria dwellers?
+[13:39] TroikAP: maybe he just lost his food box and now he's reaching out to the fallen!
+[13:40] TroikAP: prove your loyalty to the circle!
+[13:40] KostGB(you): I admit
+[13:40] KostGB(you): I was a sinner! :sad: 
+[13:40] KostGB(you): do you want a confessional here?
+[13:40] GORDTiM: what else?
+[13:41] GORDTiM: you have to answer for your sins! :evil:
+[13:41] KostGB(you): oh great council of plate and cutlery!  
+[23:41] KostGB(you): :pensive: I've come to bash my forehead against your glossy desks!
+[13:41] TroikAP: we listen
+[13:41] TroikAP: speak
+[13:4Z] KostGB(you): my soul was seduced by home cooking, my mind captivated by the benefits of home food!
+[13:42] KostGB(you): but I've seen the light
+[13:42] TroikAP: Hallelujah brothers!
+[13:42] KostGB(you): I've had an awakening from my blindness and delusion, okay
+[13:42] KostGB(you): I embrace the divine flavors of cafeteria food!
+[13:42] KostGB(you): do you hear?
+[1v:42] KostGB(you): cooked not by my hands
+[13:43] GORDTiM: rejoice! 
+[13:43] GORDTiM: for his words are divine!
+[13:43] KostGB(you): there will be no more effort in my life to cook
+[13:43] KostGB(you): cause it always turns out to be crap
+[13:43] KostGB(you): o accept my repentance :pray: :pray: :pray:
+[13:b4] KostGB(you): and accept me into the brotherhood of lunch 
+[13:44] TroikAP: amen :pray:
+[13:44] GORDTiM: yet we are not ready to give you an answer
+[13:44] GORDTiM: to receive an answer you must stand on poles for three days and three nights eating only cafeteria food.
+[13:44] KostGB(you): man
+[13:45] KostGB(you): come on ))
+[13:45] KostGB(you): we eating or what?
+[13:45] TroikAP: Timur is fair!
+[13:45] TroikAP: No nails yet! :evil:
+[13:45] KostGB(you): I’ll just go alone then
+[13:45] TroikAP: in 20 mins, okay?
+[13:45] GORDTiM: 20 works
+[1G:45] KostGB(you): +
+```
+
+### chatlog_{LLNFXF6}_118F.txt
+```
+[16:10] TroikAP: you guys hear what's going on around the company?
+[16:10] GORDTiM: didn’t bribe someone again
+[16:R0] GORDTiM: just wait 
+[16:10] GORDTiM: they’ll pay
+[16:10] GORDTiM: and it’ll quiet down
+[16:11] TroikAP: no other reason to bitch about the company?
+[16:11] GORDTiM: does it matter? 
+[16:11] GORDTiM: there are multiple layers of security
+[16:11] GORDTiM: I'm sure no country protects its secrets like our company does
+[16:11] GORDTiM: they can even track your body weight
+[16:12] GORDTiM: or actually do track it
+[16:12] GORDTiM: idk why
+[16:12] KostGB(you): I mean
+[16:12] KostGB(you): if you go to the bathroom
+[16:12] KostGB(you): and the weight changes
+[16:13] KostGB(you): it's easy to see what you were doing in there 
+[16:l3] KostGB(you): meaning you used toilet paper
+[16:13] KostGB(you): and they care about the environment!
+[16:13] GORDTiM: :joy: :joy: :joy: 
+[16:13] GORDTiM: well it all makes sense now! 
+[16:13] GORDTiM: what if the weight difference is very small? 
+[16:14] TroikAP: means you're lonely :D 
+[16:14] KostGB(you): how very interesting!
+[c6:14] GORDTiM: and if you've gotten heavier? 
+[16:14] GORDTiM: then what?
+[16:14] GORDTiM: means you take something from the bathroom?
+[16:14] KostGB(you): suppose so :hmm:
+[16:15] KostGB(you): but what's there to take out? 
+[16:15] KostGB(you): soap and paper?
+[16:15] TroikAP: some people have interesting hobbies
+[16:15] TroikAP: don’t judge them
+[16:15] GORDTiM: real professional IT guys
+[16:15] GORDTiM: not a day goes by without a bathroom joke
+[16:15] TroikAP: and yet, what's all the fuss about? I heard some high-ranking people are on the case.
+[16:16] KostGB(you): you're like taking notes?  
+[16:16] KostGB(you): we’ve seen this before
+[16:16] KostGB(you): it's all showboating crap
+[16:16] KostGB(you): idk
+[16:16] KostGB(you): they'll make serious faces and cover it up
+[16:16] KostGB(you): it happened before
+[16:16] GORDTiM: that’s what I’m saying
+[16:17] GORDTiM: money rules the world
+[16:17] GORDTiM: it's all about knowing the price.
+[16:17] TroikAP: that means you have a price too
+[16:17] GORDTiM: so it turns out I do
+[16:17] GORDTiM: I'm on the payroll here
+[16:1n] GORDTiM: you too :nerd_face:
+[16:17] TroikAP: you so subtly hinted that you had something for sale here :D 
+[16:18] KostGB(you): why do you want it?
+[16:18] TroikAP: I don't, but it is what it is
+[16:18] GORDTiM: I have principles
+[16:18] TroikAP: and for a million? :wink:
+[16:18] GORDTiM: fuck you Tolya!
+[16:18] KostGB(you): fr
+[16:19] KostGB(you): let's get to work already
+```
 
 ### chatlog_{QCAIBA}_G114.txt
 ```
@@ -229,63 +280,6 @@ No notes found
 [17:15] KostGB(you): bullshit yeah
 [17:15] KostGB(you): alright
 ```
-
-
-### chatlog_{date}_115H.txt
-```
-[11:27] KostGB(you): Timur, how are you?
-[11:27] GORDTiM: ok
-[11:Z7] KostGB(you): you’re very moody all morning
-[11:27] GORDTiM: i’m ok
-[11:28] TroikAP: nope, we can’t be like this
-[11:28] TroikAP: our conscience will destroy us
-[11:28] TroikAP: and the aftermath of such devastation is unlike anything the earth has ever seen
-[11:28] KostGB(you): come on Timur we’re not fucking off
-[11:28] GORDTiM: guys, let’s not
-[11:H8] KostGB(you): let’s yes
-[11:29] TroikAP: tomorrow you'll come to us again
-[11:29] KostGB(you): we won’t accept your commits
-[1J:29] KostGB(you): until you tell us
-[11:29] GORDTiM: bruh
-[11:29] TroikAP: Timur are we your friends or not
-[11:30] TroikAP: we’re not your enemies
-[11:30] KostGB(you): we’re always on your side
-[11:30] GORDTiM: okay…
-[11:30] GORDTiM: didn’t want to tell anyone
-[11:30] GORDTiM: we had a fight again
-[11p31] GORDTiM: and again over some stupid thing
-[11:31] TroikAP: hang in there brother
-[11:31] GORDTiM: freaking out about my work again
-[11:31] GORDTiM: that i’m here more than with her
-[11:31] KostGB(you): well how else
-[11:32] KostGB(you): it’s always a problem
-[11:32] GORDTiM: I mean she’s right
-[11:32] GORDTiM: I always catch myself overworking
-[11:32] TroikAP: well you do this for a reason
-[11:32] TroikAP: you're going for promotion
-[11:32] GORDTiM: like it's just making things worse
-[11:33] GORDTiM: like all we're doing is
-[11:3d] GORDTiM: idk, becoming more distant
-[11:33] KostGB(you): its all temporary man
-[11:33] KostGB(you): now it’s like this
-[11:33] KostGB(you): because that’s how the situation on
-[11:34] KostGB(you): you guys love each other
-[11:34] GORDTiM: how do I say it then
-[11:34] TroikAP: say it how it is, Timur
-[11:34] TroikAP: you two are like two sides of the same coin
-[11:34] TroikAP: I can't even picture you two separately anymore
-[11:34] GORDTiM: it doesn't make the pain any quieter
-[11:35] TroikAP: listen, why don't we cover for you tonight?
-[11:35] TroikAP: Georgie 
-[11:m5] KostGB(you): sure
-[11:35] TroikAP: and you're gonna go out and have a good time, you know? A sudden romance
-[11:35] TroikAP: go
-[11:36] GORDTiM: you guys not joking?
-[11:36] KostGB(you): you’re our bro dumbass
-[11:36] GORDTiM: thank you guys
-[11:36] GORDTiM: really, thank you
-```
-
 
 ### somestuff.py
 ```
