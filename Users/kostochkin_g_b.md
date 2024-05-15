@@ -387,7 +387,7 @@ dt3: I1OTk1OTk1JywgJzliNTk5OTU1NSdd
 
 dt1,dt2,dt3 --base64--> `TempData = ['9b5595999', '9b5595599', '9b5995995', '9b5999555']` <br>
 Replacing 9→0 and 5→1 gives `TempData = ['0b1101000', '0b1101100', '0b1001001', '0b1000111']`
-
+Converting these numbers to theri ASCII equivalent results to `hliG`
 
 ### InitialDataStream.py
 ```
