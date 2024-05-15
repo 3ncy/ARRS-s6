@@ -376,6 +376,8 @@ dt*: Lm&@63KkmwLp)29lksDjlkdskwo2
 dt3: I1OTk1OTk1JywgJzliNTk5OTU1NSdd
 ```
 
+> dt1,dt2,dt3 --base64--> `TempData = ['9b5595999', '9b5595599', '9b5995995', '9b5999555']`
+
 
 ### InitialDataStream.py
 ```
