@@ -1,6 +1,14 @@
 User: Sec_officer12<br>
 PW:  321654test<br>
 
+# Notes <br>
+  ## note_for_you <br>
+
+    You managed to get access to this account haven't you? What a pleasant surprise. 
+    Something is about to begin and I will appreciate your help. 
+    You'll figure it out when it happens. 
+    Stay put.
+
 # Files:<br>
   ## archive_chatlog_{24.04}.txt<br>
   
