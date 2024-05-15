@@ -389,7 +389,7 @@ DataStream = ['0b110000', '0b1101100', '0b1101000', '0b1011001', '0b1011000', '0
 srcseed = 'fbacde'
 ```
 
-Datastream to int --> [48, 108, 104, 89, 88, 74]<br>
-srcseed to int --> 16493790<br>
+> Datastream to int --> `[48, 108, 104, 89, 88, 74]`<br>
+> srcseed to int --> `16493790`<br>
 
-Datastream reordered using srcseed order and converted to string: hlYXJ0<br>
+> Datastream reordered using srcseed order and converted to string: hlYXJ0<br>
