@@ -367,6 +367,8 @@ https://docs.google.com/document/d/1NpOJJYSeD7C_b8nXtJSXO7Uu1IJ_GFbd1J581zKaNmw
 ((x-11)/2)-3=4 ---> x = 25<br>
 https://www.wolframalpha.com/input?i=%28%28x-11%29%2F2%29-3%3D4<br>
 
+String `NTMyMTAxOTAx` together --base64--> `532101901` --from UNIX timestamp--> `Tuesday 11 November 1986 14:05:01 UTC`
+
 ### TempData.data
 ```
 d{6: lKwonbwfBWvebsdjsoNwebjd9^28
