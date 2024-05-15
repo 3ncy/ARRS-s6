@@ -391,3 +391,5 @@ srcseed = 'fbacde'
 
 Datastream to int --> [48, 108, 104, 89, 88, 74]<br>
 srcseed to int --> 16493790<br>
+
+Datastream reordered using srcseed order and converted to string: hlYXJ0<br>
