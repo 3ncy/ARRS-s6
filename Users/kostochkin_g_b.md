@@ -24,6 +24,7 @@ No notes found
 >
 > Adding the last 4 chars from each chatlog, converting the numbers to ascii<br>
 > D111118F101JG114115H --> DovFeJGrsH
+> ordered by timestamps --> sHeJDovFGr
 
 ### chatlog_{date}_115H.txt
 ```
