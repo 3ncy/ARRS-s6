@@ -313,3 +313,6 @@ dt3: I1OTk1OTk1JywgJzliNTk5OTU1NSdd
 DataStream = ['0b110000', '0b1101100', '0b1101000', '0b1011001', '0b1011000', '0b1001010']
 srcseed = 'fbacde'
 ```
+
+Datastream to int --> [74,108,104,89,88,74]<br>
+srcseed to int --> 16493790<br>
