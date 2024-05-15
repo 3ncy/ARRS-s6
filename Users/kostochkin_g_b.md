@@ -282,6 +282,9 @@ No notes found
 [17:15] KostGB(you): alright
 ```
 
+> All the out of place letters in the previous files (ordered by the post time) in the timestamps and user names are `ZHJpdmUvdS8zL2ZvbGRlcnMvMV`<br>
+> These can be decoded with Base64 to `drive/u/3/folders/1`
+
 ### somestuff.py
 ```
 https://docs.google.com/document/d/1LJEpyEwq1iac4rgMu0l8440C33n3sIcfQS9cEGKofwE
