@@ -19,7 +19,8 @@ No notes found
 - TempData.data
 - InitialDataStream.py
 
-> Combining all the tags to `KRZG62LLNFXF6QK7KAQCAIBA` --base64--> `Troikin_A_P    `
+> Combining all the tags to `KRZG62LLNFXF6QK7KAQCAIBA` --base32--> `Troikin_A_P    `<br>
+> Adding 1986 from [mathtask99.py](#mathtask99.py) instead of the 4 spaces gives `Troikin_A_P1986`
 
 ### chatlog_{date}_115H.txt
 ```
