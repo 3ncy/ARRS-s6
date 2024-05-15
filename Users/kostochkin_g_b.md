@@ -399,5 +399,3 @@ srcseed = 'fbacde'
 > `DataStream` to int --> [48, 108, 104, 89, 88, 74]<br>
 > Taking these numbers as ASCII gives `0lhYXJ`<br>
 > Reordering those by the alfabet, as it is written in `fbacde` gives `hlYXJ0`<br>
-
-> `srcseed` to int --> 16493790<br>
