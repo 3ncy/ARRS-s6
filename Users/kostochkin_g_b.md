@@ -291,11 +291,83 @@ No notes found
 https://docs.google.com/document/d/1LJEpyEwq1iac4rgMu0l8440C33n3sIcfQS9cEGKofwE
 ```
 
+> ```py
+> import dbrdll
+> import tgdatadll
+> 
+> scrambleddata = [2560, 408, 1152, 166, 2560, 51]
+> 
+> handler = dbrdll
+> data = tgdatadll
+> decrdata = handler.decryption(“-f, h, g”,9, data)
+> 
+> class SeedBuilder:
+>    def generator(self):
+>       print(self.key)
+>       seed = list(map(ord,self.key))
+>       items = list(map(str,seed))
+>       output = ""
+>       for item in items:
+>          output += item
+>       return output
+>       
+>    def __init__(self,key):
+>       self.key = key
+> 
+> builder = SeedBuilder("") # you need to put key here
+> seed = builder.generator() 
+> 
+> def unscrambler(data,seed):
+>     def unmixer(a,b):
+>         a = a >> int(b)
+>         a = a +  # some code is missing
+>         return a
+>     data = list(map(lambda a,b: unmixer(a,b) ,data,seed))
+>     return data
+> 
+> class Camera:
+>     def __init__(self):
+>         self.status = 'active'
+> 
+>     def change_status(self, new_status):
+>         self.status = new_status
+> 
+> scrambleddata = unscrambler(scrambleddata,seed)
+> 
+> ```
+
 
 ### mathtask99.py
 ```
 https://docs.google.com/document/d/1NpOJJYSeD7C_b8nXtJSXO7Uu1IJ_GFbd1J581zKaNmw
 ```
+> ```py
+> import math 
+> import jbshandler
+> import diLKhandler
+> 
+> class Inditefier:
+>     x,y,z = "NTMy",”MTAx”,”OTAx”
+> 
+> class Modifier:
+> 
+>     def __init__(self, inputitem):
+>         inputitem = math.sqrt(inputitem)
+>         if inputitem % 2 != 0:
+>             inputitem += 5
+>             if inputitem % 2 == 0:
+>                 inputitem *= 2
+>                 if inputitem % 2 == 0:
+>                     print(inputitem)
+> 
+>     def navigate_alpt(self):
+>         for i in range(97, 123):
+>             if i % 2 == 0:
+>                 pass:
+>             print(chr(i))
+> 
+> cl = Modifier("""there supposed to be some number""") # ((x-11)/2)-3=4
+> ```
 
 
 ### TempData.data
