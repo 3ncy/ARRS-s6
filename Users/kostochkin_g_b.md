@@ -23,7 +23,7 @@ No notes found
 > Adding 1986 from [mathtask99.py](#mathtask99py) instead of the 4 spaces gives `Troikin_A_P1986`
 >
 > Adding the last 4 chars from each chatlog, converting the numbers to ascii<br>
-> D 111 118 F 101 J G 114 115 H --> `DovFeJGrsH`
+> D 111 118 F 101 J G 114 115 H --> `DovFeJGrsH`<br>
 > ordered by timestamps --> `sHeJDovFGr`
 
 ### chatlog_{date}_115H.txt
