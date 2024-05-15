@@ -23,8 +23,8 @@ No notes found
 > Adding 1986 from [mathtask99.py](#mathtask99py) instead of the 4 spaces gives `Troikin_A_P1986`
 >
 > Adding the last 4 chars from each chatlog, converting the numbers to ascii<br>
-> D111118F101JG114115H --> DovFeJGrsH
-> ordered by timestamps --> sHeJDovFGr
+> D 111 118 F 101 J G 114 115 H --> `DovFeJGrsH`
+> ordered by timestamps --> `sHeJDovFGr`
 
 ### chatlog_{date}_115H.txt
 ```
@@ -386,9 +386,9 @@ dt*: Lm&@63KkmwLp)29lksDjlkdskwo2
 dt3: I1OTk1OTk1JywgJzliNTk5OTU1NSdd
 ```
 
-dt1,dt2,dt3 --base64--> `TempData = ['9b5595999', '9b5595599', '9b5995995', '9b5999555']` <br>
-Replacing 9→0 and 5→1 gives `TempData = ['0b1101000', '0b1101100', '0b1001001', '0b1000111']`
-Converting these numbers to theri ASCII equivalent results to `hliG`
+> dt1,dt2,dt3 --base64--> `TempData = ['9b5595999', '9b5595599', '9b5995995', '9b5999555']` <br>
+> Replacing 9→0 and 5→1 gives `TempData = ['0b1101000', '0b1101100', '0b1001001', '0b1000111']`<br>
+> Converting these numbers to theri ASCII equivalent results to `hliG`<br>
 
 ### InitialDataStream.py
 ```
@@ -396,8 +396,8 @@ DataStream = ['0b110000', '0b1101100', '0b1101000', '0b1011001', '0b1011000', '0
 srcseed = 'fbacde'
 ```
 
-`DataStream` to int --> [48, 108, 104, 89, 88, 74]<br>
-Taking these numbers as ASCII gives `0lhYXJ`<br>
-Reordering those by the alfabet, as it is written in `fbacde` gives `hlYXJ0`
+> `DataStream` to int --> [48, 108, 104, 89, 88, 74]<br>
+> Taking these numbers as ASCII gives `0lhYXJ`<br>
+> Reordering those by the alfabet, as it is written in `fbacde` gives `hlYXJ0`<br>
 
-`srcseed` to int --> 16493790<br>
+> `srcseed` to int --> 16493790<br>
