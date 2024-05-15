@@ -76,6 +76,9 @@ No notes found
 [11:36] GORDTiM: thank you guys
 [11:36] GORDTiM: really, thank you
 ```
+
+Taking the erroneous letters from the timestamps: `ZHJpdm`
+
 ### chatlog_{QK7KA}_101J.txt
 ```
 [12:45] KostGB(you): boss isn't in a good mood today, you guys know why? 
@@ -154,6 +157,8 @@ No notes found
 [12:5z] TroikAP: pretend you're very busy!
 ```
 
+Taking the erroneous letters from the timestamps: `UvdS8z`
+
 ### chatlog_{KRZG62}_D111.txt
 ```
 [L3:38] KostGB(you): lunch break anyone? :smile:
@@ -198,6 +203,8 @@ No notes found
 [13:45] GORDTiM: 20 works
 [1G:45] KostGB(you): +
 ```
+
+Taking the erroneous letters from the timestamps: `L2ZvbG`
 
 ### chatlog_{LLNFXF6}_118F.txt
 ```
@@ -257,6 +264,7 @@ No notes found
 [16:18] KostGB(you): fr
 [16:19] KostGB(you): let's get to work already
 ```
+Taking the erroneous characters from the timestamps: `Rlcn`
 
 ### chatlog_{QCAIBA}_G114.txt
 ```
@@ -281,6 +289,8 @@ No notes found
 [17:15] KostGB(you): bullshit yeah
 [17:15] KostGB(you): alright
 ```
+
+Taking the erroneous characters from the timestamps: `MvMV`
 
 ### somestuff.py
 ```
@@ -391,6 +401,10 @@ srcseed = 'fbacde'
 
 `DataStream` to int --> [48, 108, 104, 89, 88, 74]<br>
 Taking these numbers as ASCII gives `0lhYXJ`<br>
-Reordering those by the alfabet, as it is written in `fbacde` gives `hlYXJ0`
+Reordering those by the alphabet, as it is written in `fbacde` gives `hlYXJ0`
+
+Combining all the erroneous characters from all the chat logs gives: `ZHJpdmUvdS8zL2ZvbGRlcnMvMV`
+Adding this reordered string from above on the end gives `ZHJpdmUvdS8zL2ZvbGRlcnMvMVhlYXJ0`
+With base64 decode, this gives `drive/u/3/folders/1Xeart`
 
 `srcseed` to int --> 16493790<br>
