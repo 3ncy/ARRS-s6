@@ -4,7 +4,7 @@ Notify if any new files are missing under these categories
 ## PigPen Cipher Related
 *  [USA-1](/Files/papers-usa/Lc38dvqL.jpg)
 *  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
-*  [SPAIN possible pigpen](/Files/papers-spain/XiF2xL6A.jpg)
+*  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg)
 *  [KOREA](/Files/papers-korea/-F8ZY__L.jpg)
 *  [KOREA Pigpen](/Files/papers-korea/WOIz_AaX.jpg)
 
