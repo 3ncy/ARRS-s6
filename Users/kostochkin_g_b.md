@@ -339,9 +339,10 @@ https://docs.google.com/document/d/1LJEpyEwq1iac4rgMu0l8440C33n3sIcfQS9cEGKofwE
 > 
 > ```
 
->Using the seed `532101901` from mathtask99.py and `a = a + 20` from the Modifier in mathtask99.py,
->we get `dG8gdG`. Combining this base64 with the TempData base64 string `hliG` and InitialDataStream
->base64 `hlYXJ0` gives us `dG8gdGhliGhlYXJ0` => `to the^heart`. Possibly used elsewhere or red herring?
+> Using the seed `532101901` from mathtask99.py and `a = a + 20` from the Modifier in mathtask99.py, we get `dG8gdG`.<br>
+> Combining this with the TempData string `hlIG` and InitialDataStream string `hlYXJ0` gives us `dG8gdGhlIGhlYXJ0`.<br>
+> That is the password to [Troikin_A_P](./Troikin_A_P.md)<br>
+> can also be docoded with Base64 to `to the heart`
 
 ### mathtask99.py
 ```
@@ -394,7 +395,7 @@ dt3: I1OTk1OTk1JywgJzliNTk5OTU1NSdd
 
 > dt1,dt2,dt3 --base64--> `TempData = ['9b5595999', '9b5595599', '9b5995995', '9b5999555']` <br>
 > Replacing 9→0 and 5→1 gives `TempData = ['0b1101000', '0b1101100', '0b1001001', '0b1000111']`<br>
-> Converting these numbers to theri ASCII equivalent results to `hliG`<br>
+> Converting these numbers to theri ASCII equivalent results to `hlIG`<br>
 
 ### InitialDataStream.py
 ```
