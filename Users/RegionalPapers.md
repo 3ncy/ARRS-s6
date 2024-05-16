@@ -73,10 +73,24 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
   ```
 
 ## Circular Cipher
-* [USA Circular](/Files/papers-usa/Ubti4bU7.jpg) 
+* [USA Circular](/Files/papers-usa/Ubti4bU7.jpg)
+  ```
+  Top Right Circle - left to right
+  Outer: BCDEFGHI
+  Inner: aaaaabbb
+  ```
 * [SPAIN Circular](/Files/papers-spain/0S3EBOhQ.jpg)
+  ```
+  Bottom Right Circle - left to right
+  Outer: RQPONMLKJ
+  Inner: baabbbabb
+  ```
 * [KOREA Circular](/Files/papers-korea/7yUe9Mea.jpg)
-
+  ```
+  Bottom Left Circle - left to right
+  Outer: ZYXWVUTS
+  Inner: aabbabab
+  ```
 ## Quotes
 * [USA - Quotes](/Files/papers-usa/xIsfUFUJ.jpg)
 
@@ -87,8 +101,8 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
    
    7432697401010
 
-   a b c d e f g ---->  ?Connected??
-   Z Y X W V U T ---->
+   abcdefg ---->  ?
+   ZYXWVUT ---->  ?Connected??
 
    47.20.15672
    24.19.1499
