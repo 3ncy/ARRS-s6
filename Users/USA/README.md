@@ -9,5 +9,7 @@ The google drive is titled "USA. Front Royal. Part 1" and contains two files: `c
 ### coordinates:
 > Coordinates: 38.95687° N, 78.12140° W
 
+Which is here [map link]
+
 ### tttt.png
 ![aerial photo of a parking lot](../../Files/tttt.png)

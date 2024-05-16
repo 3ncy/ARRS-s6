@@ -9,7 +9,8 @@ The google drive is titled "Murcia, Part 1" and contains two files: `coordinates
 ### coordinates:
 > Coordinates: 37.991892,-1.218122<br>
 > Address: Street Alegría de la Huerta, no number, Javalí Nuevo, Murcia (Spain)
-Which is here: <map link>
+
+Which is here: [map link]
 
 ### 44.jpg
 ![photo of a parking lot](../../Files/44.jpg)
