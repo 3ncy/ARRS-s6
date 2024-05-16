@@ -120,7 +120,7 @@ I'll get to the rest later…
 > Clues for the [crossword](../Files/crossword.jpg).  
 > The password for `door2` is obtained by solving the crossword and writing out the letters in the numbered squares, based on the order in top right corner.  
 > The password is `apmtwfcmsptg`.
-> Here is the [Solved Crossword](..Files/crossword-solved.png)
+> Here is the [Solved Crossword](../Files/crossword-solved.png)
 
 
 
