@@ -45,3 +45,17 @@
 **Mr. Kerman:** I hope you realized that this is the old way of encrypting messages? Just find the books listed. They have a certainword on the right page and line.<br>
 **Mr. Kerman:** It'll be the code for the liaison. It's a child's game<br>
 **Mr. Kerman:** https://drive.google.com/drive/u/3/folders/1kC0vbMvQ2sgu3bCN8JH8f5EV9Yvatm3N *<# contains the file [34534534.png](./34534534.png) #>*<br>
+**Mr. Kerman:** Looks like the Australian edition<br>
+
+**Mr. Kerman:** Sometimes the quotes are just quotes<br>
+
+**Mr. Kerman:** You're in luck. I did a little digging through the security accounts and pulled out the code words<br> *<# posted roughly at 18:47 #>*<br>
+**Mr. Kerman:** So the word for "칼의 노래" would be "사지 死地"<br>
+**Mr. Kerman:** For "To Kill a Mockingbird," we'll go with "Caution".<br>
+**Mr. Kerman:** tactical in the IT book<br>
+**Mr. Kerman:** What's left? Don Quixote? One of my favorites.<br>
+**Mr. Kerman:** It's got the word "libertad" in it<br>
+**Mr. Kerman:** Take it from here<br>
+
+**Mr. Kerman:** Hm, it seems that your people have obtained the coordinates from an agent and some of them has been found. There must be a password for the door in those notebooks. *<# posted on 18:55 CEST, after all the codewords have been discovered #>*<br>
+**Mr. Kerman:** Be careful. There's an undercover agent among you. Someone is trying to leak information on me to the agent.<br>
