@@ -29,4 +29,4 @@ quest reward"]) --password--> overseer_lr4;
 - 
 
 ## Unused stuff
-- 
+- lines `d{6` and `dt*` from [kostochkin_g_b: TempData.data](./Users/kostochkin_g_b.md#tempdatadata)
