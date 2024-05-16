@@ -3,8 +3,10 @@ Notify if any new files are missing under these categories
 
 ## PigPen Cipher Related
 *  [USA-1](/Files/papers-usa/Lc38dvqL.jpg)
+*  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
 *  [SPAIN possible pigpen](/Files/papers-spain/XiF2xL6A.jpg)
 *  [KOREA](/Files/papers-korea/-F8ZY__L.jpg)
+*  [KOREA Pigpen](/Files/papers-korea/WOIz_AaX.jpg)
 
 
 ## Binary Pictures
@@ -29,15 +31,16 @@ Notify if any new files are missing under these categories
 * [USA Schizo Page](/Files/papers-usa/HQfc0gGe.jpg)
 * [SPAIN Schizo Page](/Files/papers-spain/fM4jpN0s.jpg)
 * [SPAIN Schizo Page 2](/Files/papers-spain/EpX6G-kA.jpg)
+* [KOREA Schizo Page](/Files/papers-korea/JDX4lyJb.png)
+* [KOREA Schizo Page 2](/Files/papers-korea/Gg4RqjFW.png)
 
 ## Drawings
 * [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
 * [SPAIN Scribbles](/Files/papers-spain/M6FHvSGK.jpg)
-* [KOREA Drawing Possible pigpen relation](/Files/papers-korea/WOIz_AaX.jpg)
+* [KOREA Drawing](/Files/papers-korea/WOIz_AaX.jpg)
 
 ## Misc 
 * [KOREA Outer notebook](/Files/papers-korea/ERawdmqK.jpg)
 
 ## Quotes
 * [USA - Quotes](/Files/papers-usa/xIsfUFUJ.jpg)
-
