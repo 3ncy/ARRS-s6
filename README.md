@@ -8,6 +8,7 @@
 | [Troikin_A_P](./Users/Troikin_A_P.md) | dG8gdGhlIGhlYXJ0 | 08:26 CEST 16.05. | WIP |
 | [Gordulin_T_M](./Users/Gordulin_T_M.md) | c3Rvcm1pc2hlcmUu | 09:44 CEST 16.05. | WIP |
 | [Timohina_V_V](./Users/Timohina_V_V.md) | aXRzdXB0b3lvdS4u | 11:47 CEST 16.05. | WIP |
+| [overseer_lr4](./Users/overseer_lr4.md) | bmV3ZGF3bi4u | - | WIP |
 
 ```mermaid
 graph TD;
