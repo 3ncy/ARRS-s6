@@ -48,9 +48,19 @@ Notify if any new files are missing under these categories
   ```
 
 ## Paragaphs
+> Text in this section derived from taking capital letters which stand out
 * [USA Paragraph](/Files/papers-usa/tjCrcdGH.jpg)
+  ```
+  BOUTCOMAPLNSEILAEDGNFGRVATHMELOULDLANEPCESHELSSYLGEETHHAGNTEAOGELRTSEWHMOETHMYHCO
+  ```
 * [SPAIN Paragraph](/Files/papers-spain/uyhjvCfJ.jpg)
+  ```
+  EAEPILLRADLTOTHDONOFETHACQUIROFTHRTONNDOITTHENEEDWLEIHELAVLSTBCTHYATFROMCC
+  ```
 * [KOREA Paragraph](/Files/papers-korea/B0WfKHsT.png)
+  ```
+  UEIDMIVEAMQULITSPATIMPTATUDIIATQORRTIUOSDRESETQMOLTASEETRISITTENSVPTBUMASALIAS
+  ```
 
 ## Circular Cipher
 * [USA Circular](/Files/papers-usa/Ubti4bU7.jpg) 
