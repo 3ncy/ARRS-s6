@@ -35,7 +35,7 @@ Papers found on the IRL locations:
 - Spain: [info](./Users/Spain), [papers](./Files/papers-spain)
 - South Korea: [info](./Users/Korea), [papers](./Files/papers-korea)
 - Australia: [info](./Users/Australia), [papers](./Files/papers-australia)
-
+- General List of Papers by Category: [papers](./Users/RegionalPapers.md)
 ## Possible users
 - 
 
