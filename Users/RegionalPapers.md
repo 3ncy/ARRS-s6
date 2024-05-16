@@ -58,7 +58,15 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
   ```
 * **AUSTRALIA** Binary
   ```
-  tbd
+  100101110100111101
+  11100010011010010
+  11011000011100001
+  111011110010011110
+  011011011010111100
+  11001010101100011
+  010110011011011010
+  01011000010101011
+  11101011010101
   ```
 
 ## Paragaphs
