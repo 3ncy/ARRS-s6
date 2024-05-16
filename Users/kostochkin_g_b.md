@@ -339,6 +339,9 @@ https://docs.google.com/document/d/1LJEpyEwq1iac4rgMu0l8440C33n3sIcfQS9cEGKofwE
 > 
 > ```
 
+>Using the seed `532101901` from mathtask99.py and `a = a + 20` from the Modifier in mathtask99.py,
+>we get `dG8gdG`. Combining this base64 with the TempData base64 string `hliG` and InitialDataStream
+>base64 `hlYXJ0` gives us `dG8gdGhliGhlYXJ0` => `to the^heart`. Possibly used elsewhere or red herring?
 
 ### mathtask99.py
 ```
