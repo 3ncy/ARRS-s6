@@ -38,6 +38,7 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
 
 705 - 4 - 2
 ```
+> This account's password decrypts with Base64 to `newdawn..`
 
 ## avialable additional commands
 - secmanager
