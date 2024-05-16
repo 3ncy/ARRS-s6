@@ -54,6 +54,8 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
     - as a parameter, use a camera name from: [234nf334ru4](overseer_lr4.md#234nf334ru4)
     - opening a door requires a password
 - tgmessenger
+  - Opens a live chat log with the operators of ARRS.
+  - An archive of the chat (as of 14:35 CEST) is available [here](../Files/tgmessenger.md). <!--TODO: add commands into the file about when we opened doors etc -->
 - userinformation
 
 ## notes
