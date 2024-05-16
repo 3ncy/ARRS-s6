@@ -19,4 +19,4 @@ Which is here: [map link]
 ![photo Seoul subway station](../../Files/333f.jpg)
 
 ### Retrieved papers
-Can be found in the folder [../../Files/papers-korea](../../Files/papers-korea/)
+Can be found in the folder [Files/papers-korea on the papers branch](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-korea)
