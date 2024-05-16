@@ -2,12 +2,22 @@
 Notify if any new files are missing under these categories
 
 ## PigPen Cipher Related
-*  [USA-1](/Files/papers-usa/Lc38dvqL.jpg)
+> Images with references to the Pigpen cipher. Decoded by making the assumption that arrow pointing left <--- is the correct orientation with the pigpen cipher at the top of each page.
+*  [USA PigPen Cipher Letters](/Files/papers-usa/Lc38dvqL.jpg)
 *  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
+   ```
+    Decoded to AUCE or QUCE
+    There is ambiguity on the first character
+   ```
+        
+   
 *  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg)
+   ```
+   Decoded to: BRE
+   ``` 
 *  [SPAIN Possible Pigpen - Scratches 2](/Files/papers-spain/1tAF3cD3.jpg)
-*  [KOREA](/Files/papers-korea/-F8ZY__L.jpg)
-*  [KOREA Pigpen](/Files/papers-korea/WOIz_AaX.jpg)
+*  [KOREA Pigpen Cipher Letter](/Files/papers-korea/-F8ZY__L.jpg)
+*  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg) ASK NOLAN TO GET RETAKE OF PICTURE- NEED FOR SCRATCHES
 
 ## Binary Pictures
 * [USA Binary](/Files/papers-usa/NJ2rerx6.jpg)
