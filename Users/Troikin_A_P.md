@@ -103,8 +103,8 @@ No notes found
 [15:31] KostGB: come on
 [15:31] BostGL: Timur
 ```
-> Invalid characters in the names, timestamps and the (you) string: `WVcb0xPY0psOFBL`<br>
-> Their valid counterparts are `BBst1iAyoDiGDKB`
+> Invalid characters in the names, timestamps and the (you) string: `WVc3b0xPY0psOFBL`<br>
+> Their valid counterparts are `BBs5t1iAyoDiGDKB`
 
 ### voice_device_34.0.4-1041134_01.txt
 ```
