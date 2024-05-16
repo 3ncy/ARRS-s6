@@ -13,6 +13,7 @@ graph TD;
     start{{start of the event}} --Video(User/Pw)--> Sec_officer12;
     start{{start of the event}} --FiR Flashdrive--> kostochkin_g_b;
     kostochkin_g_b --> Troikin_A_P;
+    Troikin_A_P --> Gordulin_T_M;
 ```
 
 ### Possible users
