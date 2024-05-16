@@ -17,7 +17,7 @@ Notify if any new files are missing under these categories
 ## Paragaphs
 * [USA Paragraph](/Files/papers-usa/tjCrcdGH.jpg)
 * [SPAIN Paragraph](/Files/papers-spain/uyhjvCfJ.jpg)
-* ![KOREA Paragraph](/Files/papers-korea/B0WfKHsT.png)
+* [KOREA Paragraph](/Files/papers-korea/B0WfKHsT.png)
 
 ## Circular Cipher
 * [USA Circular](/Files/papers-usa/Ubti4bU7.jpg) 
