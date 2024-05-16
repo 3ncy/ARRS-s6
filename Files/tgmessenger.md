@@ -24,7 +24,7 @@
 **Mr. Kerman:** I'm going to search the office network for them now. But there's a good chance they're not here.<br>
 **Mr. Kerman:** So you need to do something you are pretty good at. Dig through the files and find the codes for the doors to the other rooms in the lab.<br>
 **Mr. Kerman:** Almost forgot. The security post had this. I think you'll figure it out.<br>
-**Mr. Kerman:** https://drive.google.com/drive/u/3/folders/1F5fwk5KnL3d8Me3lCBr87l5Jd-c3apgc<br>
+**Mr. Kerman:** https://drive.google.com/drive/u/3/folders/1F5fwk5KnL3d8Me3lCBr87l5Jd-c3apgc *<# archived in [crossword.jpg](./crossword.jpg) #>* <br>
 **Mr. Kerman:** Mr. Souer be careful. This is all happening right now!<br>
 **Gal:** one sec
 **[System]:** Gal changes user name to Mr. Kerman. Approved.<br>
