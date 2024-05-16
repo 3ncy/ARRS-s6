@@ -194,6 +194,8 @@ No notes found
 [11:31] you: work is really just work
 [11:BA] you: and nothing more
 ```
+> All the wrong letters in the timestamps of all the files are:  
+> `XG CX 2W L5 LC AI BA`
 
 
 ### data.dt
