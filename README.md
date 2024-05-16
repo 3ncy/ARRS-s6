@@ -15,13 +15,17 @@ graph TD;
     start{{start of the event}} --FiR Flashdrive--> kostochkin_g_b;
     kostochkin_g_b --> Troikin_A_P;
     Troikin_A_P --> Gordulin_T_M;
-    Gordulin_T_M --> Timohina_V_V
+    Gordulin_T_M --> Timohina_V_V;
+    kostochkin_g_b --part of username--> overseer_lr4;
+    Troikin_A_P --part of username--> overseer_lr4;
+    Gordulin_T_M --part of username--> overseer_lr4;
+    Timohina_V_V --part of username--> overseer_lr4;
+    seekingInfoQuest(["Seeking Information
+quest reward"]) --password--> overseer_lr4;
 ```
 
 ### Possible users
 - 
 
 ## Unused stuff
-- endings of the chatlog files in [kostochkin_g_b](./Users/kostochkin_g_b.md) (like `_D111` etc)
-- endings of the chatlog files in [Troikin_A_P](./Users/Troikin_A_P.md) (like `_101Y` etc)
-- endings o fthe chatlog files in [Gordulin_T_M](./Users/Gordulin_T_M.md) (like `_114T` etc)
+- 
