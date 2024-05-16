@@ -40,7 +40,8 @@ No notes found
 [10:13] GORDTiM: of course
 [10:13] GkRDTiM: lemme smoke and we’ll deal with it
 ```
-> Invalid characters in the names: `ocVZjhk`
+> Invalid characters in the names, timestamps and the (you) string: `ozcnVHZjhk`<br>
+> Their valid counterparts are `ryruGMPioO`
 
 ### chatlog_{99:122:107:99:97}_I101.txt
 ```
@@ -102,7 +103,8 @@ No notes found
 [15:31] KostGB: come on
 [15:31] BostGL: Timur
 ```
-> Invalid characters in the names: `WVcbxP0psOFBL`
+> Invalid characters in the names, timestamps and the (you) string: `WVcb0xPY0psOFBL`<br>
+> Their valid counterparts are `BBst1iAyoDiGDKB`
 
 ### voice_device_34.0.4-1041134_01.txt
 ```
