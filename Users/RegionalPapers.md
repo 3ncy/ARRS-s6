@@ -5,6 +5,7 @@ Notify if any new files are missing under these categories
 *  [USA-1](/Files/papers-usa/Lc38dvqL.jpg)
 *  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
 *  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg)
+*  [SPAIN Possible Pigpen - Scratches 2](/Files/papers-spain/1tAF3cD3.jpg)
 *  [KOREA](/Files/papers-korea/-F8ZY__L.jpg)
 *  [KOREA Pigpen](/Files/papers-korea/WOIz_AaX.jpg)
 
@@ -41,6 +42,7 @@ Notify if any new files are missing under these categories
 
 ## Misc 
 * [KOREA Outer notebook](/Files/papers-korea/ERawdmqK.jpg)
+* [USA Seethrough](/Files/papers-usa/teqEeTtl.jpg)
 
 ## Quotes
 * [USA - Quotes](/Files/papers-usa/xIsfUFUJ.jpg)
