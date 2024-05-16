@@ -24,7 +24,7 @@ WZDRTbVF5VGtWUmJHaG9UV3N3ZUZ
 ZeFdtRmhNVXAwVkd0
 c1ZWWkVRVGs9114
 ```
-
+> Decoding it with Base64 7x gives `thereisnothinghere`
 
 ### report_{date}_{time}_52FF.txt
 ```
