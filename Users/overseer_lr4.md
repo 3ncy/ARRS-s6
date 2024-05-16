@@ -38,6 +38,12 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
 
 705 - 4 - 2
 ```
+
+## avialable additional commands
+- secmanager
+- tgmanager
+- userinformation
+
 ## notes
 - readme
 - crossword
