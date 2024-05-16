@@ -48,7 +48,7 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
   - exit
   - help
   - open    
-- tgmanager
+- tgmessenger
 - userinformation
 
 ## notes
