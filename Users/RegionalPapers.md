@@ -56,6 +56,10 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
   01110100100010010
   001101011010101
   ```
+* **AUSTRALIA** Binary
+  ```
+  tbd
+  ```
 
 ## Paragaphs
 > Text in this section derived from taking capital letters which stand out
@@ -91,6 +95,12 @@ Seemingly references an atbash cipher
   Bottom Left Circle - left to right
   Outer: ZYXWVUTS
   Inner: aabbabab
+  ```
+* **AUSTRALIA Circular**
+  ```
+  Top Left Circle - left to right
+  Outer: 123456A
+  Inner: ababaab
   ```
 ## Quotes
 * [USA - Quotes](/Files/papers-usa/xIsfUFUJ.jpg)
