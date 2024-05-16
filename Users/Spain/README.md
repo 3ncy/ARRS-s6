@@ -14,3 +14,6 @@ Which is here: [map link]
 
 ### 44.jpg
 ![photo of a parking lot](../../Files/44.jpg)
+
+### Retrieved papers
+Can be found in the folder [../../Files/papers-spain](../../Files/papers-spain/)

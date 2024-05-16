@@ -16,3 +16,6 @@ Which is here [map link]
 
 ### 22.jpg
 ![photo of lockers in a trainstation](../../Files/22.jpg)
+
+### Retrieved papers
+Can be found in the folder [../../Files/papers-australia](../../Files/papers-australia/)

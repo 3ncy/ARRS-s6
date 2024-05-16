@@ -13,3 +13,6 @@ Which is here [map link]
 
 ### tttt.png
 ![aerial photo of a parking lot](../../Files/tttt.png)
+
+### Retrieved papers
+Can be found in the folder [../../Files/papers-usa](../../Files/papers-usa/)

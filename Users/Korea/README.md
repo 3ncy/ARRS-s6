@@ -17,3 +17,6 @@ Which is here: [map link]
 
 ### 333f.jpg
 ![photo Seoul subway station](../../Files/333f.jpg)
+
+### Retrieved papers
+Can be found in the folder [../../Files/papers-korea](../../Files/papers-korea/)
