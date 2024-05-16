@@ -19,3 +19,8 @@ graph TD;
 ### Possible users
 
 - `Timohina_V_V   ` from mistakes in [Gordulin_T_M](./Users/Gordulin_T_M.md)'s files  
+
+## Unused stuff
+- `drive/u/3/folders/1` from [kostochkin_g_b : chatlog_{QCAIBA}_G114.txt](Users/kostochkin_g_b.md#chatlog_qcaiba_g114txt)
+- endings of the chatlogs in [kostochkin_g_b](./Users/kostochkin_g_b.md) (like `_D111` etc)
+- endings of the chatlogs in [Troikin_A_P](./Users/Troikin_A_P.md) (like `_101Y` etc)
