@@ -21,5 +21,6 @@ graph TD;
 - `Timohina_V_V   ` from mistakes in [Gordulin_T_M](./Users/Gordulin_T_M.md)'s files  
 
 ## Unused stuff
-- endings of the chatlogs in [kostochkin_g_b](./Users/kostochkin_g_b.md) (like `_D111` etc)
-- endings of the chatlogs in [Troikin_A_P](./Users/Troikin_A_P.md) (like `_101Y` etc)
+- endings of the chatlog files in [kostochkin_g_b](./Users/kostochkin_g_b.md) (like `_D111` etc)
+- endings of the chatlog files in [Troikin_A_P](./Users/Troikin_A_P.md) (like `_101Y` etc)
+- endings o fthe chatlog files in [Gordulin_T_M](./Users/Gordulin_T_M.md) (like `_114T` etc)
