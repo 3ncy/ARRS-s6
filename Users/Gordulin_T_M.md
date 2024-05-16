@@ -200,6 +200,7 @@ No notes found
 ```
 UVpPR3NNWUMzbFY3
 ```
+> Can be docoded with Base64 to `QZOGsMYC3lV7`
 
 
 ### reader.py
