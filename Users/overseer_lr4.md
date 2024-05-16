@@ -41,7 +41,7 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
 
 ## avialable additional commands
 - secmanager
-  Enters a subprogram, background is showing an [overview of cameras](../Files/92f705925016eeddee2ba5a4ea265999.webm). There are different commands available in this mode:
+  Enters a subprogram, background is showing an [overview of cameras](../Files/92f705925016eeddee2ba5a4ea265999.webm) ([png version](../Files/92f705925016eeddee2ba5a4ea265999.png)). There are different commands available in this mode:
   - cam
   - close
   - exit
