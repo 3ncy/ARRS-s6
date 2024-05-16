@@ -82,6 +82,17 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 
 ## Schizo Pages
 * [USA Schizo Page](/Files/papers-usa/HQfc0gGe.jpg)
+   ```
+   Transcriptions:
+   
+   7432697401010
+
+   a b c d e f g ---->  ?Connected??
+   Z Y X W V U T ---->
+
+   47.20.15672
+   24.19.1499
+   ```
 * [SPAIN Schizo Page](/Files/papers-spain/fM4jpN0s.jpg)
 * [SPAIN Schizo Page 2](/Files/papers-spain/EpX6G-kA.jpg)
 * [KOREA Schizo Page](/Files/papers-korea/JDX4lyJb.png)
