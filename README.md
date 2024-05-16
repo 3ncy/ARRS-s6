@@ -31,11 +31,11 @@ quest reward"]) --password--> overseer_lr4;
 
 ### IRL things
 Papers found on the IRL locations:
+- List of Papers by Category w/ Decoded Text: [papers](./Users/RegionalPapers.md)
 - USA: [info](./Users/USA), [papers](./Files/papers-usa) found there
 - Spain: [info](./Users/Spain), [papers](./Files/papers-spain)
 - South Korea: [info](./Users/Korea), [papers](./Files/papers-korea)
 - Australia: [info](./Users/Australia), [papers](./Files/papers-australia)
-- General List of Papers by Category: [papers](./Users/RegionalPapers.md)
 ## Possible users
 - 
 
