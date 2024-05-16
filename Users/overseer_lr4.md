@@ -105,8 +105,8 @@ Office
 I'll get to the rest later…
 ```
 > Clues for the [crossword](../Files/crossword.jpg).  
-> The password for `door2` is obtained by solving the crossword and ordering the secret by the numbers in top right corner of the paper.  
-> (A filled in crossword will be added later.)
+> The password for `door2` is obtained by solving the crossword and writing out the letters in the numbered squares, based on the order in top right corner.  
+> The password is `apmtwfcmsptg`. (A filled in crossword will be added later.)
 
 
 ### 234nf334ru4
