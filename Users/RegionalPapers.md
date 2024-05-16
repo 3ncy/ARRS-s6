@@ -9,7 +9,6 @@ Notify if any new files are missing under these categories
 *  [KOREA](/Files/papers-korea/-F8ZY__L.jpg)
 *  [KOREA Pigpen](/Files/papers-korea/WOIz_AaX.jpg)
 
-
 ## Binary Pictures
 * [USA Binary](/Files/papers-usa/NJ2rerx6.jpg)
 * [SPAIN Binary](/Files/papers-spain/lFJiHSYc.jpg)
@@ -18,7 +17,7 @@ Notify if any new files are missing under these categories
 ## Paragaphs
 * [USA Paragraph](/Files/papers-usa/tjCrcdGH.jpg)
 * [SPAIN Paragraph](/Files/papers-spain/uyhjvCfJ.jpg)
-* [KOREA Paragraph](/Files/papers-korea/B0WfKHsT.png)
+* ![KOREA Paragraph](/Files/papers-korea/B0WfKHsT.png)
 
 ## Circular Cipher
 * [USA Circular](/Files/papers-usa/Ubti4bU7.jpg) 
