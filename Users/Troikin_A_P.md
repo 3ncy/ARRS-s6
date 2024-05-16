@@ -203,6 +203,17 @@ https://docs.google.com/document/d/1tlm2UlJwaSFApvdEIL5mn7SG_y9PRUmuQKaceqrpK3c
 > DecryptedData = Result.Resolve(Decr.Varb,””” for data “”” )
 > print(DecryptedData)
 > ```
+>
+> Steps to Solve:
+> 1. charecters from Chatlog
+>   tqfb aczkca
+> 2. Put those into SeedHandler(tqfb,aczkca)
+>    Hinted by # 6 / 4
+> 3. Update Iterator to start at 0
+> 4. Combine data from Decryptor.py
+> 5. Put that into Result.Resolve instead of """for data"""
+> 6. Run code
+>    c3Rvcm1pc2hlcmUu
 
 ### decryptor.py
 ```
