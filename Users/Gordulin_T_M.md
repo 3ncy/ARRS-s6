@@ -44,6 +44,7 @@ No notes found
 [10:49] GINFTiM(you): okay, I’ll look later
 [10:49] KostGB: sure
 ```
+> Wring letters in the names are: `KRUW233INF`
 
 
 ### unknown_contact_chatlog_{date}_WW95.txt
@@ -196,6 +197,8 @@ No notes found
 ```
 > All the wrong letters in the timestamps of all the files are:  
 > `XG CX 2W L5 LC AI BA`
+> Combining these with the letters from [unknown_contact_chatlog_{date}_114T.txt](#unknown_contact_chatlog_date_114ttxt) gives  
+> `KRUW233INFXGCX2WL5LCAIBA` --Base32--> `Timohina_V_V   `
 
 
 ### data.dt
