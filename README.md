@@ -8,7 +8,7 @@
 | [Troikin_A_P](./Users/Troikin_A_P.md) | dG8gdGhlIGhlYXJ0 | 08:26 CEST 16.05. | WIP |
 | [Gordulin_T_M](./Users/Gordulin_T_M.md) | c3Rvcm1pc2hlcmUu | 09:44 CEST 16.05. | WIP |
 | [Timohina_V_V](./Users/Timohina_V_V.md) | aXRzdXB0b3lvdS4u | 11:47 CEST 16.05. | WIP |
-| [overseer_lr4](./Users/overseer_lr4.md) | bmV3ZGF3bi4u | - | WIP |
+| [overseer_lr4](./Users/overseer_lr4.md) | bmV3ZGF3bi4u | 13:12 CEST 16.02. | WIP |
 
 ```mermaid
 graph TD;
@@ -23,9 +23,20 @@ graph TD;
     Timohina_V_V --part of username--> overseer_lr4;
     seekingInfoQuest(["Seeking Information
 quest reward"]) --password--> overseer_lr4;
+    overseer_lr4 --tgmessenger-->irl-usa[IRL papers in USA];
+    overseer_lr4 --tgmessenger-->irl-spain[IRL papers in Spain];
+    overseer_lr4 --tgmessenger-->irl-korea[IRL papers in South Korea];
+    overseer_lr4 --tgmessenger-->irl-australia[IRL papers in Australia];
 ```
 
-### Possible users
+### IRL things
+Papers found on the IRL locations:
+- USA: [info](./Users/USA), [papers](./Files/papers-usa) found there
+- Spain: [info](./Users/Spain), [papers](./Files/papers-spain)
+- South Korea: [info](./Users/Korea), [papers](./Files/papers-korea)
+- Australia: [info](./Users/Australia), [papers](./Files/papers-australia)
+
+## Possible users
 - 
 
 ## Unused stuff
