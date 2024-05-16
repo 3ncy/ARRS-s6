@@ -44,6 +44,7 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
 - secmanager
   Enters a subprogram, background is showing an [overview of cameras](../Files/92f705925016eeddee2ba5a4ea265999.webm) ([png version](../Files/92f705925016eeddee2ba5a4ea265999.png)). There are different commands available in this mode:
   - cam
+    - `cam cam_0x` opens a view of available cameras. As of 14:20 the available cameras are `02`, `03`, `04`, `07`.
   - close
   - exit
   - help
