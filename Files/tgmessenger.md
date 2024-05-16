@@ -40,3 +40,4 @@
 **Mr. Kerman:** I've updated the info page in your user. Check it out<br>
 **Mr. Kerman:** I've also come across mentions of Ryzhy's dad..... I'll have to look for more, but only through the admin room.<br>
 **Mr. Kerman:** I need to get in there<br>
+**Mr. Kerman:** I need to get in to the room. So hurry up with the doors *<# sent roughly at 15:19, after a prolonged period of silence. The community was taking their time with solving other puzzles. #>*<br>
