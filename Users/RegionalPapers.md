@@ -2,7 +2,7 @@
 Notify if any new files are missing under these categories
 
 ## PigPen Cipher Related
-> Images with references to the Pigpen cipher. Decoded by making the assumption that arrow pointing left <--- is the correct orientation with the pigpen cipher at the top of each page.
+Images with references to the Pigpen cipher. They have by making the ***assumption that arrow pointing left*** <--- is the correct orientation with the pigpen cipher at the top of each page.
 *  [USA PigPen Cipher Letters](/Files/papers-usa/Lc38dvqL.jpg)
 *  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
    ```
