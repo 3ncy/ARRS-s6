@@ -41,4 +41,7 @@
 **Mr. Kerman:** I've also come across mentions of Ryzhy's dad..... I'll have to look for more, but only through the admin room.<br>
 **Mr. Kerman:** I need to get in there<br>
 **Mr. Kerman:** I need to get in to the room. So hurry up with the doors *<# sent roughly at 15:19, after a prolonged period of silence. The community was taking their time with solving other puzzles. #>*<br>
-**Mr. Kerman:** Sometimes some pages might hide the scratches, that could be useful *<# sent rouhly at 17:19, after we retreived some papers from USA and Korea #>*
+**Mr. Kerman:** Sometimes some pages might hide the scratches, that could be useful *<# sent rouhly at 17:19, after we retreived some papers from USA and Korea #>*<br>
+**Mr. Kerman:** I hope you realized that this is the old way of encrypting messages? Just find the books listed. They have a certainword on the right page and line.<br>
+**Mr. Kerman:** It'll be the code for the liaison. It's a child's game<br>
+**Mr. Kerman:** https://drive.google.com/drive/u/3/folders/1kC0vbMvQ2sgu3bCN8JH8f5EV9Yvatm3N *<# contains the file [34534534.png](./34534534.png) #>*<br>
