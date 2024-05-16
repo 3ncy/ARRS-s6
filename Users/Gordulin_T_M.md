@@ -206,3 +206,49 @@ UVpPR3NNWUMzbFY3
 ```
 https://docs.google.com/document/d/1LsmpIdptMLrxTtXg5aV3bRyv4_CrPWblkk7DRESt02U
 ```
+
+> ```py
+> import csv
+> import pymongo
+> 
+> myclient = pymongo.MongoClient(" ")
+> 
+> mydb = myclient["mydatabase"]
+> 
+> mycol = mydb["customers"]
+> 
+> x = mycol.find_one()
+> 
+> class DataLab:
+>     def __init__(self):
+>         self.formulas = []
+>         with open(' ') as csv_file:
+>             csv_reader = csv.reader(csv_file, delimiter=',')
+>             line_count = _
+>             for row in csv_reader:
+>                 if len(row[1]) > 7:
+>                     print(f'Warning! The size of id is {len(row[1])}') 
+>                 else:
+>                      print(f'\tID: {row[0]} | {row[1]} NAME: {row[2]} {row[3]} ACCESS: {row[4]}')
+>                 line_count += 1
+>         print('Done')
+> 
+>     def add_new_formula(self, formula, comment):
+>         self.formulas.append({formula: comment})
+> 
+>     def authorization(self, login, password):
+>         # Connect to MongoDB database "DBempl" and search for login and password
+>         if login == "example_login" and password == "example_password":
+>             return {"data_access": True, "name": "John Doe", "access_level": "admin"}
+> 
+>     def load_project_data(self, name, project):
+>         # Load data from MongoDB "DBprojChem" based on Name and Project
+>         return {
+>             "scientists": [" ", " "],
+>             "priority_level": "high",
+>             "status": "in progress",
+>             "reports": ["Report1", "Report2"],
+>             "results": ["Result1", "Result2"]
+>         }
+> 
+> ```
