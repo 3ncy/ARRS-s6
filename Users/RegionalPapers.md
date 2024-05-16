@@ -72,7 +72,8 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
   UEIDMIVEAMQULITSPATIMPTATUDIIATQORRTIUOSDRESETQMOLTASEETRISITTENSVPTBUMASALIAS
   ```
 
-## Circular Cipher
+## Circular Cipher 
+Seemingly references an atbash cipher
 * [USA Circular](/Files/papers-usa/Ubti4bU7.jpg)
   ```
   Top Right Circle - left to right
@@ -107,6 +108,7 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
    47.20.15672
    24.19.1499
    ```
+   > The ZYXW abcd text above references an `atbash cipher`
 * [SPAIN Schizo Page](/Files/papers-spain/fM4jpN0s.jpg)
 * [SPAIN Schizo Page 2](/Files/papers-spain/EpX6G-kA.jpg)
 * [KOREA Schizo Page](/Files/papers-korea/JDX4lyJb.png)
