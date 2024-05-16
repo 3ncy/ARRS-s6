@@ -4,6 +4,7 @@
 Timohina Victoria Vitalievna
 HR department
 ```
+> This account's password decrypts with Base64 to `itsuptoyou..`
 ## notes
 
 No notes found
