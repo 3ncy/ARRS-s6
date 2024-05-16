@@ -41,14 +41,18 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
 > This account's password decrypts with Base64 to `newdawn..`
 
 ## avialable additional commands
-- secmanager
-  Enters a subprogram, background is showing an [overview of cameras](../Files/92f705925016eeddee2ba5a4ea265999.webm) ([png version](../Files/92f705925016eeddee2ba5a4ea265999.png)). There are different commands available in this mode:
+- secmanager<br>
+  Enters a subprogram, background is showing an [overview of cameras](../Files/92f705925016eeddee2ba5a4ea265999.webm) ([png version](../Files/92f705925016eeddee2ba5a4ea265999.png)).<br>
+  There are different commands available in this mode:
   - cam
-    - `cam cam_0x` opens a view of available cameras. As of 14:20 the available cameras are `02`, `03`, `04`, `07`.
+    - as a parameter, use a camera name from: [234nf334ru4](overseer_lr4.md#234nf334ru4)
   - close
+    - as a parameter, use a camera name from: [234nf334ru4](overseer_lr4.md#234nf334ru4)
   - exit
   - help
-  - open    
+  - open
+    - as a parameter, use a camera name from: [234nf334ru4](overseer_lr4.md#234nf334ru4)
+    - opening a door requires a password
 - tgmessenger
 - userinformation
 
@@ -118,6 +122,9 @@ cam_05 - Status: Not working
 cam_06 - Status: Not working
 cam_07 - Status: Working
 ```
+> Door and Camera names for the `cam`, `open` and `close` commands. (See above.)
+
+
 ## files
 - autosave_massages_13544
 - autosave_massages_23421
