@@ -185,9 +185,75 @@ recognized_voice_03: Take a left here, let’s move quick.
 ```
 https://docs.google.com/document/d/1tlm2UlJwaSFApvdEIL5mn7SG_y9PRUmuQKaceqrpK3c
 ```
-
+> ```python
+> import providerdll
+> import decryptor
+> 
+> class Result:
+>   def Resolve(key,data):
+>     iterator = 20
+>     while iterator < len(data):
+>       data[iterator] += (key>>2)
+>       iterator += 1
+>     return data;
+> 
+> Decr = decryptor.SeedHandler('I5XXEZDV','NRUW4X') # 6 / 4
+> DecryptedData = Result.Resolve(Decr.Varb,””” for data “”” )
+> print(DecryptedData)
+> ```
 
 ### decryptor.py
 ```
 https://docs.google.com/document/d/1gOmmS4Zl2sbT7KcfWcqv7XkXqd3EV-zz5oPAi4lr_bE
 ```
+> ```python
+> class SeedHandler:
+>   ReSeeder = []
+>   KeyBuilder = []
+>   Varb = 0
+> 
+>   def __init__(self,seed,key):
+>     if len(seed) <= 6:
+>       self.seed = seed
+>     if len(key) <= 4:
+>       self.key = key
+>     
+>     self.com = 0
+> 
+>     def casesw(input):
+>       if input > 0:
+>         if input == 1:
+>           return input + 1
+>         elif input == 5:
+>           return input + 4
+>         elif input == 16:
+>           return int(input / 2)
+>         elif input == 19:
+>           return input - 5
+> 
+>     def __init__(self):
+>         self.alert_levels = ['green', 'yellow', 'orange', 'red']
+>         self.security_posts = list(range(1, 26))
+>         self.cameras = [Camera() for _ in range(1, 101)]
+>       
+>     for item in seed:
+>       self.ReSeeder.append(ord(item)) #2UL5GSAIBA
+>     
+>     iterator = 0
+>     while iterator < len(self.ReSeeder):
+>       if self.ReSeeder[iterator] > 105:
+>        self.Varb -= self.ReSeeder[iterator]
+>       elif self.ReSeeder[iterator] < 105:
+>        self.Varb += self.ReSeeder[iterator]
+>       iterator += 1
+>     
+>     for item in key:
+>       self.KeyBuilder.append(casesw(int(ord(item))-97))
+>     for item in self.KeyBuilder:
+>       self.Varb += item
+> 
+> # data = [50, 2, 33, 69, 50, 60]
+> # data = [0,  63,  50, 1,  55,  59]
+> # data = [50, 60,  36, 68] 
+> 
+> ```
