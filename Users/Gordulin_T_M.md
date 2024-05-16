@@ -205,7 +205,9 @@ No notes found
 ```
 UVpPR3NNWUMzbFY3
 ```
-> Can be docoded with Base64 to `QZOGsMYC3lV7`
+> Stringing the invalid characters from the timestamps and names in the files in [kostochkin_g_b](./kostochkin_g_b.md#chatlog_qcaiba_g114txt) and the ones in [Troikin_A_P.md](./Troikin_A_P.md) gets us `ZHJpdmUvdS8zL2ZvbGRlcnMvMV ozcnVHZjhk WVc3b0xPY0psOFBL UVpPR3NNWUMzbFY3`, which when decoded with Base64 results into `drive/u/3/folders/1Z3ruGf8dYW7oLOcJl8PKQZOGsMYC3lV7`.<br>
+> That is an URL to the google drive folder https://drive.google.com/drive/u/3/folders/1Z3ruGf8dYW7oLOcJl8PKQZOGsMYC3lV7.<br>
+> The folder contains the file [users.csv](../Files/users.csv).
 
 
 ### reader.py
