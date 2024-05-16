@@ -15,4 +15,4 @@ Which is here [map link]
 ![aerial photo of a parking lot](../../Files/tttt.png)
 
 ### Retrieved papers
-Can be found in the folder [../../Files/papers-usa](../../Files/papers-usa/)
+Can be found in the folder [Files/papers-usa in the **papers** branch](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-usa)
