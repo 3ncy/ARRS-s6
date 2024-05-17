@@ -5,32 +5,50 @@ Notify if any new files are missing under these categories
 Images with references to the Pigpen cipher. They have by making the ***assumption that arrow pointing left*** <--- is the correct orientation with the pigpen cipher at the top of each page.
 
 [PIGPEN SUMAMRY - INCOMPLETE](/Files/pigpenincomplete.png)
-*  [USA PigPen Cipher Letters](/Files/papers-usa/Lc38dvqL.jpg)
-*  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
-   ```
-    Arrow Up
-    Decoded to BECO
-   ```
-        
-*  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg)
-   ```
-   Arrow Left
-   Decoded to: BRE
-   ``` 
-*  [SPAIN Possible Pigpen - Scratches 2](/Files/papers-spain/1tAF3cD3.jpg)
+*  [USA Pigpen Cipher Letters](/Files/papers-usa/Lc38dvqL.jpg)
+*  [SPAIN (Likely) Pigpen Letters](/Files/papers-spain/M6FHvSGK.jpg)
 *  [KOREA Pigpen Cipher Letter](/Files/papers-korea/-F8ZY__L.jpg)
-*  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg) ASK NOLAN TO GET RETAKE OF PICTURE- NEED FOR SCRATCHES
-   ```
-   Arrow Down
-   waiting for better image to decode
-   ```
-*  [AUSTRALIA Pigpen](/Files/papers-australia/IMG_2687.jpg)
-*  [AUSTRALIA Pigpen - Scratches](/Files/papers-australia/IMG_2686.jpg) [Closer Image](/Files/papers-australia/93hg4s922js8.png)
-   ```
-   Arrow Right
-   GHTA
-   ```
-  
+*  [AUSTRALIA Pigpen Letters](/Files/papers-australia/IMG_2687.jpg)
+*     
+
+*  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
+*  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg), [Different view](/Files/papers-spain/1tAF3cD3.jpg)
+
+*  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg)
+
+*  [AUSTRALIA Pigpen - Scratches](/Files/papers-australia/IMG_2686.jpg), [Closer Image](/Files/papers-australia/93hg4s922js8.png)
+```  
+all arrows same direction:
+ up    ↑
+        KOR    AUS     USA     SPAIN
+        FT*P   ODFI    #NCO    EDO
+ down  ↓
+        P*RI   FIMB    BCQ$    BMA
+ left  ←
+        GD*P   ERGH    %UCE    BRE
+ right →
+        P*MH   GHTA    ACK!    ATO
+
+all arrows different directions:
+        KOR ↓
+            P*RI
+
+        AUS →
+            GHTA
+
+        US ↑
+            #NCO
+
+        SPAIN ←
+            BRE
+
+Legend:
+  * = W/X/Y/Z       – not sure because we don't have the grid
+  # = B/U           – these not sure if there is a dot on pic  
+  $ = O/K
+  % = A/Q
+  ! = E/N
+```
 
 ## Binary Pictures
 * [USA Binary](/Files/papers-usa/NJ2rerx6.jpg)
@@ -82,6 +100,7 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
   11101011010101
   ```
 
+
 ## Paragaphs
 > Text in this section derived from taking capital letters which stand out
 * [USA Paragraph](/Files/papers-usa/tjCrcdGH.jpg)
@@ -104,8 +123,9 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
   ```
   > no numbers here
 
+
 ## Circular Cipher 
-Seemingly references an atbash cipher
+Seemingly references an atbash cipher or Bacon cipher
 * [MERGED CIRCULAR IMAGES](/Files/tempcirclediagraph.png)
 * [USA Circular](/Files/papers-usa/Ubti4bU7.jpg)
   ```
@@ -131,8 +151,7 @@ Seemingly references an atbash cipher
   Outer: 123456A
   Inner: ababaab
   ```
-## Quotes
-* [USA - Quotes](/Files/papers-usa/xIsfUFUJ.jpg)
+
 
 ## Schizo Pages
 * [USA Schizo Page](/Files/papers-usa/HQfc0gGe.jpg)
