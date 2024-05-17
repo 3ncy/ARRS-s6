@@ -1,6 +1,8 @@
 # Categorized Region Photos
 Notify if any new files are missing under these categories
 
+- **Part 2 papers** are further in this document, quick jump here: [PART 2](RegionalPapers.md#part-2-papers)
+
 ## PigPen Cipher Related
 Images with references to the Pigpen cipher.
 
