@@ -8,8 +8,8 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 *  [USA PigPen Cipher Letters](/Files/papers-usa/Lc38dvqL.jpg)
 *  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
    ```
-    Decoded to AUCE or QUCE
-    There is ambiguity on the first character
+    Arrow Up
+    Decoded to BECO
    ```
         
 *  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg)
@@ -21,6 +21,9 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 *  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg) ASK NOLAN TO GET RETAKE OF PICTURE- NEED FOR SCRATCHES
 *  [AUSTRALIA Pigpen](/Files/papers-australia/IMG_2687.jpg)
 *  [AUSTRALIA Pigpen - Scratches](/Files/papers-australia/IMG_2686.jpg)
+   ```
+   GHTA
+   ```
   
 
 ## Binary Pictures
