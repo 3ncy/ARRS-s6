@@ -20,7 +20,7 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 *  [KOREA Pigpen Cipher Letter](/Files/papers-korea/-F8ZY__L.jpg)
 *  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg) ASK NOLAN TO GET RETAKE OF PICTURE- NEED FOR SCRATCHES
 *  [AUSTRALIA Pigpen](/Files/papers-australia/IMG_2687.jpg)
-*  [AUSTRALIA Pigpen - Scratches](/Files/papers-australia/IMG_2686.jpg)
+*  [AUSTRALIA Pigpen - Scratches](/Files/papers-australia/IMG_2686.jpg) [Closer Image](/Files/papers-australia/93hg4s922js8.png)
    ```
    GHTA
    ```
