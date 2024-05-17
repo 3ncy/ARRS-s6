@@ -91,3 +91,9 @@
 **Mr. Kerman:** That's it, nothing else of interest. Time to get out<br>
 
 **Mr. Kerman:** I hear everything *<# out of nowhere at 19:10 CEST, perhaps in a reaction to some banter in a voicechat that was being streamed to a Twitch which has been previously confirmed that it was watched by Mr. Kerman #>*<br>
+
+**Mr. Kerman:** Is the exit unlocked? Good. There's nothing more for me to do here *<# after opening door4 #>*<br>
+**Mr. Kerman:** Hmm. They're late. I was counting on someone thinking of sending their men to the lab sooner. *<# reference to some soldiers walking around on the cameras #>*<br>
+**Mr. Kerman:** Check this one out, too.<br>
+**Mr. Kerman:** l: anna_a_x p: qvvos_zp_bfqvzku_yb *<# login to the account [anna_a_x](/Users/anna_a_x.md) #>*<br>
+**Mr. Kerman:** And most importantly, don't stay in the dark<br>
