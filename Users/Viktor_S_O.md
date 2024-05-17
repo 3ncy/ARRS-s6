@@ -29,5 +29,8 @@ YzL, MzM, VlU, QtQ
 > From there you get `N5PXE6TQOFTG62TWN53WKZC7NB4WMZ27MZVXGX3DMJ2XM23SL55F64DPOAQCAIBAUNDM0YZLTZXMZM2LVLUVDVVVVY3RDQTQ0`
 > which translates to `o_rzpqfojvowed_hyfg_fks_cbuvkr_z_pop    £FÌesÍÙiu]*:ÖµÆâ8N`
 >
-> The second chunk of the morse code decodes to base32 `UNDM0YZLTZXMZM2LVLUVDVVVVY3RDQTQ0`
-> The letters `YzL, MzM, VlU, QtQ` appear in this base32 string
+> The second chunk of the morse code decodes to base32 `UNDM0YZLTZXMZM2LVLUVDVVVVY3RDQTQ0` <br>
+> The letters `YzL, MzM, VlU, QtQ` appear in this base32 string <br>
+> matching the lowercase letters into the string <br>
+> Adding it to signed and padding it as shown: `AAA CNDFDWC1TMks1VUtUN0Q0L UNDM0YzLTZXMzM2LVlUVDVVVVY3RDQtQ0` <br>
+> contains a gamecode `KT7D4-CC3F3-6W336-YTT5U` <br>
