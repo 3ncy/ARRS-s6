@@ -42,7 +42,7 @@ all arrows different directions:
             UNCO
 
         SPAIN ←
-            BRE
+            BLE
 
 Legend:
   # = B/U     – not sure if there is a dot on the USA pic  
