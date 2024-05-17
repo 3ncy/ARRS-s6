@@ -147,7 +147,22 @@ Seemingly references an atbash cipher or Bacon cipher
 * [KOREA Schizo Page 2](/Files/papers-korea/Gg4RqjFW.png)
 * [AUSTRALIA Schizo page](/Files/papers-australia/IMG_2688.jpg)
 
-## Part 2 Papers:
+## Drawings
+* [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
+* [SPAIN Scribbles](/Files/papers-spain/M6FHvSGK.jpg)
+* [KOREA Drawing](/Files/papers-korea/WOIz_AaX.jpg)
+* [AUSTRALIA Drawings](/Files/papers-australia/IMG_2683.jpg)
+
+## Misc 
+* [KOREA Outer notebook](/Files/papers-korea/ERawdmqK.jpg)
+* [USA Seethrough](/Files/papers-usa/teqEeTtl.jpg)
+
+## Quotes
+* [USA - Quotes](/Files/papers-usa/xIsfUFUJ.jpg)
+
+<br>
+
+# Part 2 Papers:
 <img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/> <img src="/Files/papers-australia-2/aus-code-paper.png" height="250"/>
 
 * [SPAIN](/Files/papers-spain-2/p3paper.png)
@@ -165,15 +180,3 @@ Seemingly references an atbash cipher or Bacon cipher
   ```
   > _Potential_ solutions so far `P3: ji32n*****80mkewb209` / `P3: ji32n*****f0mkewb209`
 
-## Drawings
-* [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
-* [SPAIN Scribbles](/Files/papers-spain/M6FHvSGK.jpg)
-* [KOREA Drawing](/Files/papers-korea/WOIz_AaX.jpg)
-* [AUSTRALIA Drawings](/Files/papers-australia/IMG_2683.jpg)
-
-## Misc 
-* [KOREA Outer notebook](/Files/papers-korea/ERawdmqK.jpg)
-* [USA Seethrough](/Files/papers-usa/teqEeTtl.jpg)
-
-## Quotes
-* [USA - Quotes](/Files/papers-usa/xIsfUFUJ.jpg)
