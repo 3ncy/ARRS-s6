@@ -19,7 +19,7 @@ Data deleted
 ## notes
 - 123а
 - 4rtg2234
-
+> The `а` is lowercase in Cyrillic, with the unicode code `U+0430`
 
 ### 123а
 ```
