@@ -13,17 +13,17 @@ The google drive is titled "USA. Front Royal. Part 1" and contains two files: `c
 Which is here [map link]
 
 ### tttt.png
-![aerial photo of a parking lot](../../Files/tttt.png)
+![aerial photo of a parking lot](/Files/tttt.png)
 
-### Retrieved papers
-Can be found in the folder [../../Files/papers-usa](../../Files/papers-usa/)
+## Retrieved papers
+Can be found in the folder [/Files/papers-usa/](/Files/papers-usa/)
 
 # Part 2
 A Message from @agent12c5 on telegram:
 > Your next objective is located at the following coordinates. This is the end of our cooperation with you.
 > https://drive.google.com/drive/u/3/folders/1GQPU-fNGnCfKY7SH8N7qcdAl3agVXOr0
 
-## Sperryville
+The drilve is titled "USA. Sperryville. Part 2" and contains three files: `Coordinates`, `wrwer.jpg` and `2345.jpg`.
 
 ### Coordinates
 > Coordinates: 38.65765° N, 78.21657° W
@@ -31,9 +31,11 @@ A Message from @agent12c5 on telegram:
 Which is here [map link]
 
 ### wrwer.jpg
-![photo of a park](../../Files/wrwer.jpg)
+![photo of a park](/Files/wrwer.jpg)
+### 2345.jpg
+![photo of the hiding spot](/Files/2345.jpg)
 
-### Retrieved papers
+## Retrieved papers
 Can be found in the folder
 
 

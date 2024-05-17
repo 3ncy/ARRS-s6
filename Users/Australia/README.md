@@ -19,8 +19,8 @@ Which is here [map link]
 ### 22.jpg
 ![photo of lockers in a trainstation](../../Files/22.jpg)
 
-### Retrieved papers
-Can be found in the folder [Files/papers-australia in the **papers** branch](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-australia)
+## Retrieved papers
+Can be found in the folder [Files/papers-australia/](/Files/papers-australia/)
 
 
 # Part 2
@@ -30,10 +30,13 @@ A message from @agent12c5 on telegram:
 > https://drive.google.com/drive/u/0/folders/1IDLXihZDuUcn1YVVbfyYnZXi66q0Xat2
 
 The drilve is titled "Melbourne. Part 2" and again contains two files: `Coordinates` and `222.jpg`.
-## Coordinates
+### Coordinates
 > Coordinates: -37.643628, 144.832599
 
 Which is here [map link].
 
-## 222.jpg
+### 222.jpg
 ![night photo of a parking lot](/Files/222.jpg)
+
+## Retrieved papers
+Can be found in the folder [Files/papers-australia-2/](/Files/papers-australia-2/)
