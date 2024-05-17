@@ -26,4 +26,8 @@ SIGNED: CNDFDWC1TMks1VUtUN0Q0L
 YzL, MzM, VlU, QtQ
 ```
 > First 'binary' portion should actually be interpreted as morse code.
-> From there you get `N5PXE6TQOFTG62TWN53WKZC7NB4WMZ27MZVXGX3DMJ2XM23SL55F64DPOAQCAIBAUNDM0YZLTZXMZM2LVLUVDVVVVY3RDQTQ0` which translates to `o_rzpqfojvowed_hyfg_fks_cbuvkr_z_pop    £FÌesÍÙiu]*:ÖµÆâ8N`
+> From there you get `N5PXE6TQOFTG62TWN53WKZC7NB4WMZ27MZVXGX3DMJ2XM23SL55F64DPOAQCAIBAUNDM0YZLTZXMZM2LVLUVDVVVVY3RDQTQ0`
+> which translates to `o_rzpqfojvowed_hyfg_fks_cbuvkr_z_pop    £FÌesÍÙiu]*:ÖµÆâ8N`
+>
+> The second chunk of the morse code decodes to base32 `UNDM0YZLTZXMZM2LVLUVDVVVVY3RDQTQ0`
+> The letters `YzL, MzM, VlU, QtQ` appear in this base32 string
