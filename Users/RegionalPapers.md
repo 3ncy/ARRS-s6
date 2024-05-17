@@ -39,7 +39,7 @@ all arrows different directions:
             GHTA
 
         US ↑
-            #NCO
+            UNCO
 
         SPAIN ←
             BRE
