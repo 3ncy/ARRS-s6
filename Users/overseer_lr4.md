@@ -67,7 +67,7 @@ graph TD;
 start{{Room 1: Door open}} --Door2 Pw:apmtwfcmsptg--> Room2
 Room2 --Door5 Pw:???--> Room5
 Room2 --Door4 Pw:???--> Room4
-Room2 --Door3 Pw:216LEmol1899--> Room3
+Room2 --Door3 Pw:216lem1899mol--> Room3
 Room4 --Open Hallway--> Exit2
 Room5 --Open Hallway--> Exit2
 
