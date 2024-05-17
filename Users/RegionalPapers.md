@@ -76,6 +76,8 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 * [USA Paragraph](/Files/papers-usa/tjCrcdGH.jpg)
   ```
   BOUTCOMAPLNSEILAEDGNFGRVATHMELOULDLANEPCESHELSSYLGEETHHAGNTEAOGELRTSEWHMOETHMYHCO
+  - BOUT169COMAPLNSELAEDGNFGRVATHMELOULDLANEPCESHELSSYTHLGEETHHAGNTEAOGELR11TSEWHMOETH111112MYHCO
+
   ```
 * [SPAIN Paragraph](/Files/papers-spain/uyhjvCfJ.jpg)
   ```
