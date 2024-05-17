@@ -1,3 +1,5 @@
+# Part 1
+
 A message from @agent12c5 on telegram:
 > Australia Package details:
 > 
@@ -7,7 +9,7 @@ A message from @agent12c5 on telegram:
 
 The google drive is titled "Melbourne. Part 1" and contains two files: `coordinates` and `22.jpg`
 
-### coordinates:
+### coordinates
 > coordinates: -37.816269, 144.952491<br>
 > Locker: 822<br>
 > Code: 827568 Purple
@@ -18,4 +20,20 @@ Which is here [map link]
 ![photo of lockers in a trainstation](../../Files/22.jpg)
 
 ### Retrieved papers
-Can be found in the folder [../../Files/papers-australia](../../Files/papers-australia/)
+Can be found in the folder [Files/papers-australia in the **papers** branch](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-australia)
+
+
+# Part 2
+
+A message from @agent12c5 on telegram:
+> Your next objective is located at the following coordinates. This is the end of our cooperation with you.<br>
+> https://drive.google.com/drive/u/0/folders/1IDLXihZDuUcn1YVVbfyYnZXi66q0Xat2
+
+The drilve is titled "Melbourne. Part 2" and again contains two files: `Coordinates` and `222.jpg`.
+## Coordinates
+> Coordinates: -37.643628, 144.832599
+
+Which is here [map link].
+
+## 222.jpg
+![night photo of a parking lot](/Files/222.jpg)

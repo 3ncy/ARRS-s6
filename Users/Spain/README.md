@@ -16,4 +16,4 @@ Which is here: [map link]
 ![photo of a parking lot](../../Files/44.jpg)
 
 ### Retrieved papers
-Can be found in the folder [../../Files/papers-spain](../../Files/papers-spain/)
+Can be found in the folder [Files/papers-spain in the **papers** branch](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-spain)

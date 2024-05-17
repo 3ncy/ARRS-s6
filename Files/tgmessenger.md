@@ -59,3 +59,33 @@
 
 **Mr. Kerman:** Hm, it seems that your people have obtained the coordinates from an agent and some of them has been found. There must be a password for the door in those notebooks. *<# posted on 18:55 CEST, after all the codewords have been discovered #>*<br>
 **Mr. Kerman:** Be careful. There's an undercover agent among you. Someone is trying to leak information on me to the agent.<br>
+
+**Mr. Kerman:** The snake made a mistake in the second part *<# some minutes before the door3 password was found #>*<br>
+**Mr. Kerman:** What the eye featrs, the hands do<br>
+
+*<# after unlocking the door3 at 14:10 CEST 17.05. #>*<br>
+**Mr. Kerman:** I see the door to the admin room is open. Hopefully, the informatin is in there<br>
+**[System]:** Arlynn changes user name to Mr. Kerman. Approved.<br>
+**Mr. Kerman:** It's a little more complicated<br>
+**Mr. Kerman:** It's strange to be here again<br>
+**Mr. Kerman:** They didn't even change the passwords when I left this place, idiots. I'm gonna start the admin panel<br>
+**Mr. Kerman:** I now have access to the lab's core research. Let's see what's been going on here<br>
+**Mr. Kerman:** Found something else interesting about Ryzhy. Or rather, his dad.<br>
+**Mr. Kerman:** He was held here. What's new is there's no record of him being dead.<br>
+**Mr. Kerman:** He was part of a group of volunteers on whom a new drug was being tested<br>
+**Mr. Kerman:** Yeah, we know the kind of "volunteers" that were brought in like cattle here<br>
+**Mr. Kerman:** We'll have to see what kind of drug was studied<br>
+**Mr. Kerman:** Hmm, all the data on him isn't even encrypted, it's just wiped clean.<br>
+**Mr. Kerman:** Interesting. I'll try the other end<br>
+**Mr. Kerman:** Nothing, it's empty. <br>
+**Mr. Kerman:** Everything is wiped out, all mentions, even some chat messages are missing<br>
+**Mr. Kerman:** This drug... Something very powerful<br>
+**Mr. Kerman:** I wonder if they wiped out the body disposal papers too, or did no one really die from these experiments? <br>
+**Mr. Kerman:** I'm gonna check this out real quick<br>
+**Mr. Kerman:** Found some internal docs with the body disposals. No details of the autopsy results, which is probably why they didn't wipe it clean<br>
+**Mr. Kerman:** The docs match the time when Ryzhy's father was held here. And he's not listed<br>
+**Mr. Kerman:** So Ryzhy's father is alive<br>
+**Mr. Kerman:** Wait, there's something else... Oh, that's interesting.<br>
+**Mr. Kerman:** Anastasia, huh?<br>
+**Mr. Kerman:** Well, this one is no longer your problem<br>
+**Mr. Kerman:** That's it, nothing else of interest. Time to get out<br>
