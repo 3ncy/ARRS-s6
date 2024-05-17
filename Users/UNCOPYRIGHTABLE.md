@@ -59,3 +59,4 @@ Sincerely, TerraGroup Internal Security Service.
 ```
 https://drive.google.com/drive/u/3/folders/1LWtVgv6aQlQDV6h7oBrvBmpIYNsk47aj
 ```
+> The drive is called `foto` and contains only the file [foto.jpg](/Files/foto.jpg)
