@@ -25,5 +25,5 @@ No notes found
 [ LUNF ] 21P0nBNE7huiqtIcu4= 8
 [ XW4IBA ] CBC
 ```
-> Base 32 sections (all caps bracketed) `determination`
+> Base 32 sections (all caps bracketed TFg ... VV) `determination`
 > Top 5 bracketed sections decoded to game code
