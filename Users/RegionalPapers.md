@@ -162,6 +162,10 @@ Seemingly references an atbash cipher or Bacon cipher
   ```
   ji32n***************
   ```
+* [USA](/Files/papers-usa-2/IMG_2597.png)
+  ```
+  P2: *****fj32m***********
+  ```
   > _Potential_ solution so far `P3: ji32n*****80mkewb209`
 
 ## Drawings
