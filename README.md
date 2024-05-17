@@ -1,4 +1,4 @@
-# ARRS season 6
+# ARRS season 6 - MAIN BRANCH MOST UP TO DATE
 
 ## Users
 | Username | Password | Unlock time | Status |
