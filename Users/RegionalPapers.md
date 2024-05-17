@@ -167,9 +167,8 @@ Seemingly references an atbash cipher or Bacon cipher
 
 * [SPAIN](/Files/papers-spain-2/p3paper.png)
   ```
-  P3:**********80mke*****
+  P3:**********f0mke*****
   ```
-  > The `8` might also be a lowercase cursive `f`
 * [KOREA](/Files/papers-korea-2/20240518_002204.png)
   ```
   *** *** *** *** *** wb209
@@ -178,5 +177,5 @@ Seemingly references an atbash cipher or Bacon cipher
   ```
   ji32n***************
   ```
-  > _Potential_ solutions so far `P3: ji32n*****80mkewb209` / `P3: ji32n*****f0mkewb209`
+  > Potential solution so far `P3: ji32n*****f0mkewb209`
 
