@@ -42,7 +42,7 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
 
 ## avialable additional commands
 - secmanager<br>
-  Enters a subprogram, background is showing an [overview of cameras](../Files/92f705925016eeddee2ba5a4ea265999.webm) ([png version](../Files/92f705925016eeddee2ba5a4ea265999.png)).<br>
+  Enters a subprogram, background is showing an [overview of cameras](/Files/7a8be3493ca221ccb1b4ae46f163bc2d.mp4) ([png version](/Files/7a8be3493ca221ccb1b4ae46f163bc2d.png)).<br>
   There are different commands available in this mode:
   - cam
     - as a parameter, use a camera name from: [234nf334ru4](overseer_lr4.md#234nf334ru4)
