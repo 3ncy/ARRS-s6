@@ -10,6 +10,7 @@
 | [Timohina_V_V](https://github.com/3ncy/ARRS-s6/blob/main/Users/Timohina_V_V.md) | aXRzdXB0b3lvdS4u | 11:47 CEST 16.05. | WIP |
 | [overseer_lr4](https://github.com/3ncy/ARRS-s6/blob/main/Users/overseer_lr4.md) | bmV3ZGF3bi4u | 13:12 CEST 16.02. | WIP |
 | [UNCOPYRIGHTABLE](https://github.com/3ncy/ARRS-s6/blob/main/Users/UNCOPYRIGHTABLE.md) | ji32nfj32mf0mkewb209 | 20:38 CEST 17.05. | WIP |
+| [anna_a_x](https://github.com/3ncy/ARRS-s6/blob/main/Users/anna_a_x.md) | qvvos_zp_bfqvzku_yb | 21:28 CEST 17.05. | WIP |
 
 ```mermaid
 graph TD;
@@ -40,6 +41,8 @@ quest reward"]) --password--> overseer_lr4;
     irl-spain --username--> UNCOPYRIGHTABLE;
     irl-korea --username--> UNCOPYRIGHTABLE;
     irl-australia --username--> UNCOPYRIGHTABLE;
+
+    UNCOPYRIGHTABLE --events in cameras--> anna_a_x;
 ```
 
 ### IRL things
