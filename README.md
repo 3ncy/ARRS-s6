@@ -10,6 +10,8 @@
 | [Timohina_V_V](https://github.com/3ncy/ARRS-s6/blob/main/Users/Timohina_V_V.md) | aXRzdXB0b3lvdS4u | 11:47 CEST 16.05. | WIP |
 | [overseer_lr4](https://github.com/3ncy/ARRS-s6/blob/main/Users/overseer_lr4.md) | bmV3ZGF3bi4u | 13:12 CEST 16.02. | WIP |
 
+***The USER files are on a SEPARATE BRANCH called "main". You can switch to it in the top left corner of the repository***, for example by clicking the "papers" branch button.
+
 ```mermaid
 graph TD;
     start{{start of the event}} --Video(User/Pw)--> Sec_officer12;
