@@ -177,5 +177,9 @@ Seemingly references an atbash cipher or Bacon cipher
   ```
   ji32n***************
   ```
-  > Potential solution so far `P3: ji32n*****f0mkewb209`
+  [USA]
+  ```
+  P2:*****fj32m**********
+  ```
+  >  All parts combined: `ji32nfj32mf0mkewb209`
 
