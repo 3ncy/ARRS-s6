@@ -162,7 +162,7 @@ Seemingly references an atbash cipher or Bacon cipher
   ```
   ji32n***************
   ```
-  > _Potential_ solution so far `P3: ji32n*****80mke*****`
+  > _Potential_ solution so far `P3: ji32n*****80mkewb209`
 
 ## Drawings
 * [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
