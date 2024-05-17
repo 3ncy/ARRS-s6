@@ -18,4 +18,4 @@ Which is here [map link]
 ![photo of lockers in a trainstation](../../Files/22.jpg)
 
 ### Retrieved papers
-Can be found in the folder [../../Files/papers-australia](../../Files/papers-australia/)
+Can be found in the folder [Files/papers-australia in the **papers** branch](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-australia)
