@@ -154,6 +154,7 @@ Seemingly references an atbash cipher or Bacon cipher
   ```
   P3:**********80mke*****
   ```
+  > The `8` might also be a lowercase cursive `f`
 * [KOREA](/Files/papers-korea-2/20240518_002204.png)
   ```
   *** *** *** *** *** wb209
@@ -162,7 +163,7 @@ Seemingly references an atbash cipher or Bacon cipher
   ```
   ji32n***************
   ```
-  > _Potential_ solution so far `P3: ji32n*****80mkewb209`
+  > _Potential_ solutions so far `P3: ji32n*****80mkewb209` / `P3: ji32n*****f0mkewb209`
 
 ## Drawings
 * [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
