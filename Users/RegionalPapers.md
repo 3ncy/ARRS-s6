@@ -94,7 +94,7 @@ Ordering the papers in the order `USA → Korea → Australia → Spain` gives t
   ```
   KNEEVEDCOUDRAKMASHOURSMAMTNIGTSTRREDTAKEEDERFALO
   ```
-  > no numbers here
+> This section lead to a door password
 
 
 ## Circular Cipher 
