@@ -89,3 +89,5 @@
 **Mr. Kerman:** Anastasia, huh?<br>
 **Mr. Kerman:** Well, this one is no longer your problem<br>
 **Mr. Kerman:** That's it, nothing else of interest. Time to get out<br>
+
+**Mr. Kerman:** I hear everything *<# out of nowhere at 19:10 CEST, perhaps in a reaction to some banter in a voicechat that was being streamed to a Twitch which has been previously confirmed that it was watched by Mr. Kerman #>*<br>
