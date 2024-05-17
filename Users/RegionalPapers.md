@@ -149,7 +149,13 @@ Seemingly references an atbash cipher or Bacon cipher
 <img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/>
 
 * [SPAIN](/Files/papers-spain-2/p3paper.png)
+  ```
+  **********80mke*****
+  ```
 * [KOREA](/Files/papers-korea-2/20240518_002204.png)
+  ```
+  *** *** *** *** *** wb209
+  ```
 
 ## Drawings
 * [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
