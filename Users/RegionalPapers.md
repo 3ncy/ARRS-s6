@@ -1,6 +1,8 @@
 # Categorized Region Photos
 Notify if any new files are missing under these categories
 
+- **Part 2 papers** are further in this document, quick jump here: [PART 2](RegionalPapers.md#part-2-papers)
+
 ## PigPen Cipher Related
 Images with references to the Pigpen cipher.
 
@@ -144,6 +146,18 @@ Seemingly references an atbash cipher or Bacon cipher
 * [KOREA Schizo Page](/Files/papers-korea/JDX4lyJb.png)
 * [KOREA Schizo Page 2](/Files/papers-korea/Gg4RqjFW.png)
 * [AUSTRALIA Schizo page](/Files/papers-australia/IMG_2688.jpg)
+
+## Part 2 Papers:
+<img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/>
+
+* [SPAIN](/Files/papers-spain-2/p3paper.png)
+  ```
+  P3:**********80mke*****
+  ```
+* [KOREA](/Files/papers-korea-2/20240518_002204.png)
+  ```
+  *** *** *** *** *** wb209
+  ```
 
 ## Drawings
 * [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)

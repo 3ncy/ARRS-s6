@@ -21,10 +21,7 @@ Can be found in the folder [../../Files/papers-usa](../../Files/papers-usa/)
 # Part 2
 A Message from @agent12c5 on telegram:
 > Your next objective is located at the following coordinates. This is the end of our cooperation with you.
-> 1. Korea *not including on this doc check the others*
-> 2. Australia *same as above*
-> 3. https://drive.google.com/drive/u/3/folders/1GQPU-fNGnCfKY7SH8N7qcdAl3agVXOr0
-> 4. Spain *same as above*
+> https://drive.google.com/drive/u/3/folders/1GQPU-fNGnCfKY7SH8N7qcdAl3agVXOr0
 
 ## Sperryville
 
