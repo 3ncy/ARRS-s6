@@ -26,4 +26,5 @@ No notes found
 [ XW4IBA ] CBC
 ```
 > Base 32 sections (all caps bracketed MRSXI ... XW4IBM) `determination` <br>
-> Top 5 bracketed sections decoded to game code
+> Top 5 bracketed sections decoded to game code <br>
+> `CAM` unused as of right now
