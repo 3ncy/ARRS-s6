@@ -173,7 +173,7 @@ Seemingly references an atbash cipher or Bacon cipher
   ```
   *** *** *** *** *** wb209
   ```
-* [AUSTRALIA](/Files/papers-australia-2/aus-code-paper.png)
+* [AUSTRALIA](/Files/papers-australia-2/ARRS_-_Melbourne_Part_2.jpg)
   ```
   ji32n***************
   ```
