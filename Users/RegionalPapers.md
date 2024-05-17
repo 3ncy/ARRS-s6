@@ -12,44 +12,14 @@ Images with references to the Pigpen cipher.
 
 <img src="/Files/papers-usa/Lc38dvqL.jpg" height="200"/> <img src="/Files/papers-korea/-F8ZY__L.jpg" height="200"/> <img src="/Files/papers-australia/IMG_2687.jpg" height="200"/> <img src="/Files/papers-spain/M6FHvSGK.jpg" height="200"/> ⟹ <img src="/Files/pigpenincomplete.png" width="200" alt=">"/>
 
-*  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
-*  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg), [Different view](/Files/papers-spain/1tAF3cD3.jpg)
-*  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg)
+*  [USA Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
+*  [SPAIN Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg), [Different view](/Files/papers-spain/1tAF3cD3.jpg)
+*  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg), [Closer view](/Files/papers-korea/20240517_004042.jpg)
 *  [AUSTRALIA Pigpen - Scratches](/Files/papers-australia/IMG_2686.jpg), [Closer Image](/Files/papers-australia/93hg4s922js8.png)
 
 <img src="/Files/papers-usa/qohmTIQa.jpg" height="200"/> <img src="/Files/papers-spain/XiF2xL6A.jpg" height="200"/> (<img src="/Files/papers-spain/1tAF3cD3.jpg" height="200"/>) <img src="/Files/papers-korea/WOIz_AaX.jpg" height="200"/> <img src="/Files/papers-australia/IMG_2686.jpg" width="200"/> (<img src="/Files/papers-australia/93hg4s922js8.png" height="200"/>)
 
-```  
-all arrows same direction:
-        KOR    AUS     USA     SPAIN
- up    ↑
-        FTXP   ODFI    #NCO    EDO
- down  ↓
-        PYRI   FIMB    BCQ$    BMA
- left  ←
-        GDZP   ERGH    %UCE    BRE
- right →
-        PWMH   GHTA    ACK!    ATO
-
-all arrows different directions:
-        KOR ↓
-            PYRI
-
-        AUS →
-            GHTA
-
-        US ↑
-            #NCO
-
-        SPAIN ←
-            BRE
-
-Legend:
-  # = B/U     – not sure if there is a dot on the USA pic  
-  $ = O/K
-  % = A/Q
-  ! = E/N
-```
+Ordering the papers in the order `USA → Korea → Australia → Spain` gives the word `UNCOPYRIGHTABLE`, which is the codeword.
 
 ## Binary Pictures
 * [USA Binary](/Files/papers-usa/NJ2rerx6.jpg)
