@@ -145,6 +145,12 @@ Seemingly references an atbash cipher or Bacon cipher
 * [KOREA Schizo Page 2](/Files/papers-korea/Gg4RqjFW.png)
 * [AUSTRALIA Schizo page](/Files/papers-australia/IMG_2688.jpg)
 
+## Part 2 Papers:
+<img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/>
+
+* [SPAIN](/Files/papers-spain-2/p3paper.png)
+* [KOREA](/Files/papers-korea-2/20240518_002204.png)
+
 ## Drawings
 * [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
 * [SPAIN Scribbles](/Files/papers-spain/M6FHvSGK.jpg)
