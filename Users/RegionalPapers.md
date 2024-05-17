@@ -2,7 +2,7 @@
 Notify if any new files are missing under these categories
 
 ## PigPen Cipher Related
-Images with references to the Pigpen cipher. They have by making the ***assumption that arrow pointing left*** <--- is the correct orientation with the pigpen cipher at the top of each page.
+Images with references to the Pigpen cipher.
 
 [PIGPEN SUMAMRY - INCOMPLETE](/Files/pigpenincomplete.png)
 *  [USA Pigpen Cipher Letters](/Files/papers-usa/Lc38dvqL.jpg)
@@ -21,19 +21,19 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 
 ```  
 all arrows same direction:
- up    ↑
         KOR    AUS     USA     SPAIN
-        FT*P   ODFI    #NCO    EDO
+ up    ↑
+        FTXP   ODFI    #NCO    EDO
  down  ↓
-        P*RI   FIMB    BCQ$    BMA
+        PYRI   FIMB    BCQ$    BMA
  left  ←
-        GD*P   ERGH    %UCE    BRE
+        GDZP   ERGH    %UCE    BRE
  right →
-        P*MH   GHTA    ACK!    ATO
+        PWMH   GHTA    ACK!    ATO
 
 all arrows different directions:
         KOR ↓
-            P*RI
+            PYRI
 
         AUS →
             GHTA
@@ -45,8 +45,7 @@ all arrows different directions:
             BRE
 
 Legend:
-  * = W/X/Y/Z       – not sure because we don't have the grid
-  # = B/U           – these not sure if there is a dot on pic  
+  # = B/U     – not sure if there is a dot on the USA pic  
   $ = O/K
   % = A/Q
   ! = E/N
