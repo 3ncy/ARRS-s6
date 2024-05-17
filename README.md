@@ -32,12 +32,12 @@ quest reward"]) --password--> overseer_lr4;
 ### IRL things
 Papers found on the IRL locations:
 
-***The files are on a SEPARATE BRANCH called "papers". You can switch to it in the top left corner of the repository***, for example by clicking the "main" branch button.
-- List of Papers by Category w/ Decoded Text: [papers](https://github.com/3ncy/ARRS-s6/blob/papers/Users/RegionalPapers.md)
-- USA: [info](https://github.com/3ncy/ARRS-s6/tree/papers/Users/USA), [papers](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-usa) found there
-- Spain: [info](https://github.com/3ncy/ARRS-s6/tree/papers/Users/Spain), [papers](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-spain)
-- South Korea: [info](https://github.com/3ncy/ARRS-s6/tree/papers/Users/Korea), [papers](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-korea)
-- Australia: [info](https://github.com/3ncy/ARRS-s6/tree/papers/Users/Australia), [papers](https://github.com/3ncy/ARRS-s6/tree/papers/Files/papers-australia)
+
+- List of Papers by Category w/ Decoded Text: [papers](https://github.com/3ncy/ARRS-s6/blob/main/Users/RegionalPapers.md)
+- USA: [info](https://github.com/3ncy/ARRS-s6/tree/main/Users/USA), [papers](https://github.com/3ncy/ARRS-s6/tree/main/Files/papers-usa) found there
+- Spain: [info](https://github.com/3ncy/ARRS-s6/tree/main/Users/Spain), [papers](https://github.com/3ncy/ARRS-s6/tree/main/Files/papers-spain)
+- South Korea: [info](https://github.com/3ncy/ARRS-s6/tree/main/Users/Korea), [papers](https://github.com/3ncy/ARRS-s6/tree/main/Files/papers-korea)
+- Australia: [info](https://github.com/3ncy/ARRS-s6/tree/main/Users/Australia), [papers](https://github.com/3ncy/ARRS-s6/tree/main/Files/papers-australia)
 
 ## Possible users
 - 
