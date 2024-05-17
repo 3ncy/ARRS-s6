@@ -6,17 +6,19 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 
 [PIGPEN SUMAMRY - INCOMPLETE](/Files/pigpenincomplete.png)
 *  [USA Pigpen Cipher Letters](/Files/papers-usa/Lc38dvqL.jpg)
-*  [SPAIN (Likely) Pigpen Letters](/Files/papers-spain/M6FHvSGK.jpg)
 *  [KOREA Pigpen Cipher Letter](/Files/papers-korea/-F8ZY__L.jpg)
 *  [AUSTRALIA Pigpen Letters](/Files/papers-australia/IMG_2687.jpg)
-*     
+*  [SPAIN (Likely) Pigpen Letters](/Files/papers-spain/M6FHvSGK.jpg)
+
+<img src="/Files/papers-usa/Lc38dvqL.jpg" height="200"/> <img src="/Files/papers-korea/-F8ZY__L.jpg" height="200"/> <img src="/Files/papers-australia/IMG_2687.jpg" height="200"/> <img src="/Files/papers-spain/M6FHvSGK.jpg" height="200"/> ⟹ <img src="/Files/pigpenincomplete.png" width="200" alt=">"/>
 
 *  [USA Possible Pigpen - Scratches](/Files/papers-usa/qohmTIQa.jpg)
 *  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg), [Different view](/Files/papers-spain/1tAF3cD3.jpg)
-
 *  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg)
-
 *  [AUSTRALIA Pigpen - Scratches](/Files/papers-australia/IMG_2686.jpg), [Closer Image](/Files/papers-australia/93hg4s922js8.png)
+
+<img src="/Files/papers-usa/qohmTIQa.jpg" height="200"/> <img src="/Files/papers-spain/XiF2xL6A.jpg" height="200"/> (<img src="/Files/papers-spain/1tAF3cD3.jpg" height="200"/>) <img src="/Files/papers-korea/WOIz_AaX.jpg" height="200"/> <img src="/Files/papers-australia/IMG_2686.jpg" width="200"/> (<img src="/Files/papers-australia/93hg4s922js8.png" height="200"/>)
+
 ```  
 all arrows same direction:
  up    ↑
