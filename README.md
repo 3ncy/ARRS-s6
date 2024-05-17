@@ -9,6 +9,7 @@
 | [Gordulin_T_M](https://github.com/3ncy/ARRS-s6/blob/main/Users/Gordulin_T_M.md) | c3Rvcm1pc2hlcmUu | 09:44 CEST 16.05. | WIP |
 | [Timohina_V_V](https://github.com/3ncy/ARRS-s6/blob/main/Users/Timohina_V_V.md) | aXRzdXB0b3lvdS4u | 11:47 CEST 16.05. | WIP |
 | [overseer_lr4](https://github.com/3ncy/ARRS-s6/blob/main/Users/overseer_lr4.md) | bmV3ZGF3bi4u | 13:12 CEST 16.02. | WIP |
+| [UNCOPYRIGHTABLE](https://github.com/3ncy/ARRS-s6/blob/main/Users/UNCOPYRIGHTABLE.md) | ji32nfj32mf0mkewb209 | 20:38 CEST 17.05. | WIP |
 
 ```mermaid
 graph TD;
@@ -27,6 +28,18 @@ quest reward"]) --password--> overseer_lr4;
     overseer_lr4 --tgmessenger-->irl-spain[IRL papers in Spain];
     overseer_lr4 --tgmessenger-->irl-korea[IRL papers in South Korea];
     overseer_lr4 --tgmessenger-->irl-australia[IRL papers in Australia];
+
+
+
+    irl-usa --password--> UNCOPYRIGHTABLE;
+    irl-spain --password--> UNCOPYRIGHTABLE;
+    irl-korea --password--> UNCOPYRIGHTABLE;
+    irl-australia --password--> UNCOPYRIGHTABLE;
+
+    irl-usa --username--> UNCOPYRIGHTABLE;
+    irl-spain --username--> UNCOPYRIGHTABLE;
+    irl-korea --username--> UNCOPYRIGHTABLE;
+    irl-australia --username--> UNCOPYRIGHTABLE;
 ```
 
 ### IRL things
