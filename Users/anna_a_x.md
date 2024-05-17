@@ -25,6 +25,7 @@ No notes found
 [ LUNF ] 21P0nBNE7huiqtIcu4= 8
 [ XW4IBA ] CBC
 ```
-> Base 32 sections (all caps bracketed MRSXI ... XW4IBM) `determination` <br>
-> Top 5 bracketed sections decoded to game code <br>
-> `CAM` unused as of right now
+> Things from the brackets:<br>
+> `TFg3RD QtQ0M1 UDctNlJ WQkUt U0pKN VV` --Base64--> `LX7D4-CC5P7-6RVBE-SJJ5U`, an EOD gamecode<br>
+> `MRSXI ZLSNV UW4Y LUNF XW4IBA` --Base32--> `determination`<br>
+> `CAM` unused as of right now<br>
