@@ -147,27 +147,6 @@ Seemingly references an atbash cipher or Bacon cipher
 * [KOREA Schizo Page 2](/Files/papers-korea/Gg4RqjFW.png)
 * [AUSTRALIA Schizo page](/Files/papers-australia/IMG_2688.jpg)
 
-## Part 2 Papers:
-<img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/> <img src="/Files/papers-australia-2/aus-code-paper.png" height="250"/>
-
-* [SPAIN](/Files/papers-spain-2/p3paper.png)
-  ```
-  P3:**********80mke*****
-  ```
-* [KOREA](/Files/papers-korea-2/20240518_002204.png)
-  ```
-  *** *** *** *** *** wb209
-  ```
-* [AUSTRALIA](/Files/papers-australia-2/aus-code-paper.png)
-  ```
-  ji32n***************
-  ```
-* [USA](/Files/papers-usa-2/IMG_2597.png)
-  ```
-  P2: *****fj32m***********
-  ```
-  > _Potential_ solution so far `P3: ji32n*****80mkewb209`
-
 ## Drawings
 * [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
 * [SPAIN Scribbles](/Files/papers-spain/M6FHvSGK.jpg)
@@ -180,3 +159,41 @@ Seemingly references an atbash cipher or Bacon cipher
 
 ## Quotes
 * [USA - Quotes](/Files/papers-usa/xIsfUFUJ.jpg)
+
+<br>
+
+# Part 2 Papers:
+<img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/> <img src="/Files/papers-australia-2/aus-code-paper.png" height="250"/>
+
+* [SPAIN](/Files/papers-spain-2/p3paper.png)
+  ```
+  P3:**********f0mke*****
+  ```
+* [KOREA](/Files/papers-korea-2/20240518_002204.png)
+  ```
+  *** *** *** *** *** wb209
+  ```
+* [AUSTRALIA](/Files/papers-australia-2/aus-code-paper.png)
+  ```
+  ji32n***************
+  ```
+
+* [USA](/Files/papers-usa-2/IMG_2597.png)
+  ```
+  P2:*****fj32m**********
+  ```
+  >  All parts combined: `ji32nfj32mf0mkewb209`
+
+## Drawings
+* [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
+* [SPAIN Scribbles](/Files/papers-spain/M6FHvSGK.jpg)
+* [KOREA Drawing](/Files/papers-korea/WOIz_AaX.jpg)
+* [AUSTRALIA Drawings](/Files/papers-australia/IMG_2683.jpg)
+
+## Misc 
+* [KOREA Outer notebook](/Files/papers-korea/ERawdmqK.jpg)
+* [USA Seethrough](/Files/papers-usa/teqEeTtl.jpg)
+
+  
+
+
