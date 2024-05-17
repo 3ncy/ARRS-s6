@@ -148,7 +148,7 @@ Seemingly references an atbash cipher or Bacon cipher
 * [AUSTRALIA Schizo page](/Files/papers-australia/IMG_2688.jpg)
 
 ## Part 2 Papers:
-<img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/>
+<img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/> <img src="/Files/papers-australia-2/aus-code-paper.png" height="250"/>
 
 * [SPAIN](/Files/papers-spain-2/p3paper.png)
   ```
@@ -157,6 +157,10 @@ Seemingly references an atbash cipher or Bacon cipher
 * [KOREA](/Files/papers-korea-2/20240518_002204.png)
   ```
   *** *** *** *** *** wb209
+  ```
+* [AUSTRALIA](/Files/papers-australia-2/aus-code-paper.png)
+  ```
+  ji32n***************
   ```
 
 ## Drawings
