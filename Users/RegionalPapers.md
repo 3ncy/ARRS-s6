@@ -10,7 +10,6 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
     There is ambiguity on the first character
    ```
         
-   
 *  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg)
    ```
    Decoded to: BRE
@@ -18,6 +17,9 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 *  [SPAIN Possible Pigpen - Scratches 2](/Files/papers-spain/1tAF3cD3.jpg)
 *  [KOREA Pigpen Cipher Letter](/Files/papers-korea/-F8ZY__L.jpg)
 *  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg) ASK NOLAN TO GET RETAKE OF PICTURE- NEED FOR SCRATCHES
+*  [AUSTRALIA Pigpen](/Files/papers-australia/IMG_2687.jpg)
+*  [AUSTRALIA Pigpen - Scratches](/Files/papers-australia/IMG_2686.jpg)
+  
 
 ## Binary Pictures
 * [USA Binary](/Files/papers-usa/NJ2rerx6.jpg)
@@ -56,7 +58,7 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
   01110100100010010
   001101011010101
   ```
-* **AUSTRALIA** Binary
+* [AUSTRALIA Binary](/Files/papers-australia/IMG_2689.jpg)
   ```
   100101110100111101
   11100010011010010
@@ -83,7 +85,7 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
   ```
   UEIDMIVEAMQULITSPATIMPTATUDIIATQORRTIUOSDRESETQMOLTASEETRISITTENSVPTBUMASALIAS
   ```
-* **AUSTRALIA Paragraph**
+* [AUSTRALIA Paragraph](/Files/papers-australia/IMG_2684.jpg)
   ```
   KNEEVEDCOUDRAKMASHOURSMAMTNIGTSTRREDTAKEEDERFALO
   ```
@@ -91,6 +93,7 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 
 ## Circular Cipher 
 Seemingly references an atbash cipher
+* [MERGED CIRCULAR IMAGES](/Files/tempcirclediagraph.png)
 * [USA Circular](/Files/papers-usa/Ubti4bU7.jpg)
   ```
   Top Right Circle - left to right
@@ -109,7 +112,7 @@ Seemingly references an atbash cipher
   Outer: ZYXWVUTS
   Inner: aabbabab
   ```
-* **AUSTRALIA Circular**
+* [AUSTRALIA Circular](/Files/papers-australia/IMG_2685.jpg)
   ```
   Top Left Circle - left to right
   Outer: 123456A
@@ -136,11 +139,13 @@ Seemingly references an atbash cipher
 * [SPAIN Schizo Page 2](/Files/papers-spain/EpX6G-kA.jpg)
 * [KOREA Schizo Page](/Files/papers-korea/JDX4lyJb.png)
 * [KOREA Schizo Page 2](/Files/papers-korea/Gg4RqjFW.png)
+* [AUSTRALIA Schizo page](/Files/papers-australia/IMG_2688.jpg)
 
 ## Drawings
 * [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
 * [SPAIN Scribbles](/Files/papers-spain/M6FHvSGK.jpg)
 * [KOREA Drawing](/Files/papers-korea/WOIz_AaX.jpg)
+* [AUSTRALIA Drawings](/Files/papers-australia/IMG_2683.jpg)
 
 ## Misc 
 * [KOREA Outer notebook](/Files/papers-korea/ERawdmqK.jpg)
