@@ -59,13 +59,14 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
 - userinformation
 
 ### Secmanager Map representation:
+
 > Room 2, 3, 4 ,5 all connect to eachother through hallways.
 ```mermaid
 graph TD;
 start{{Room 1: Door open}} --Door2 Pw:apmtwfcmsptg--> Room2
 Room2 --Door5 Pw:???--> Room5
 Room2 --Door4 Pw:???--> Room4
-Room2 --Door3 Pw:???--> Room3
+Room2 --Door3 Pw:216LEmol1899--> Room3
 Room4 --Open Hallway--> Exit2
 Room5 --Open Hallway--> Exit2
 
