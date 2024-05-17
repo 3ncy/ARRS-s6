@@ -150,7 +150,7 @@ Seemingly references an atbash cipher or Bacon cipher
 
 * [SPAIN](/Files/papers-spain-2/p3paper.png)
   ```
-  **********80mke*****
+  P3:**********80mke*****
   ```
 * [KOREA](/Files/papers-korea-2/20240518_002204.png)
   ```
