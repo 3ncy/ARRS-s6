@@ -14,14 +14,20 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
         
 *  [SPAIN Possible Pigpen - Scratches](/Files/papers-spain/XiF2xL6A.jpg)
    ```
+   Arrow Left
    Decoded to: BRE
    ``` 
 *  [SPAIN Possible Pigpen - Scratches 2](/Files/papers-spain/1tAF3cD3.jpg)
 *  [KOREA Pigpen Cipher Letter](/Files/papers-korea/-F8ZY__L.jpg)
 *  [KOREA Pigpen - Scratches](/Files/papers-korea/WOIz_AaX.jpg) ASK NOLAN TO GET RETAKE OF PICTURE- NEED FOR SCRATCHES
+   ```
+   Arrow Down
+   waiting for better image to decode
+   ```
 *  [AUSTRALIA Pigpen](/Files/papers-australia/IMG_2687.jpg)
 *  [AUSTRALIA Pigpen - Scratches](/Files/papers-australia/IMG_2686.jpg) [Closer Image](/Files/papers-australia/93hg4s922js8.png)
    ```
+   Arrow Right
    GHTA
    ```
   
@@ -89,6 +95,7 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
 * [KOREA Paragraph](/Files/papers-korea/B0WfKHsT.png)
   > korean one might be hard to read
   ```
+  ** please revisit ** 
   UEIDMIVEAMQULITSPATIMPTATUDIIATQORRTIUOSDRESETQMOLTASEETRISITTENSVPTBUMASALIAS
   ```
 * [AUSTRALIA Paragraph](/Files/papers-australia/IMG_2684.jpg)
