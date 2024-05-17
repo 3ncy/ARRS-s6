@@ -34,3 +34,8 @@ YzL, MzM, VlU, QtQ
 > matching the lowercase letters into the string <br>
 > Adding it to signed and padding it as shown: `AAA CNDFDWC1TMks1VUtUN0Q0L UNDM0YzLTZXMzM2LVlUVDVVVVY3RDQtQ0` <br>
 > contains a gamecode `KT7D4-CC3F3-6W336-YTT5U` <br>
+>
+> Alternatively when adding all the lines from keep_going.txt to the second morse code section <br>
+> Adding some padding as shown: `AAA JVQ dEN 3JN QzQ YX2S TSj WW4 C1D VPU 2UC1 CNDFDWC1TMks1VUtUN0Q0L UNDM0YzLTZXMzM2LVlUVDVVVVY3RDQtQ0` <br>
+> decoding with base64 --> `à-CTõ6P-B41CX-S2K5UKT7D4-CC3F3-6W336-YTT5UUV7D4-C` <br>
+> split into chunks and assuming utf-8--> A-CTO6P-B41CX-S2K5U-<b>KT7D4-CC3F3-6W336-YTT5U</b>-UV7D4-C
