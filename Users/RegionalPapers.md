@@ -97,7 +97,8 @@ Ordering the papers in the order `USA → Korea → Australia → Spain` gives t
 
 ## Circular Cipher 
 Seemingly references an atbash cipher or Bacon cipher
-* [MERGED CIRCULAR IMAGES](/Files/circlediagraph.png)
+* [MERGED CIRCULAR IMAGES](/Files/circlediagraph.png)<br/>
+  &nbsp;<img src="/Files/circlediagraph.png" height="400"/>
 * [USA Circular](/Files/papers-usa/Ubti4bU7.jpg)
   ```
   Top Right Circle - left to right
@@ -122,7 +123,7 @@ Seemingly references an atbash cipher or Bacon cipher
   Outer: 123456A
   Inner: ababaab
   ```
-
+  <img src="/Files/papers-usa/Ubti4bU7.jpg" height="250"/> <img src="/Files/papers-spain/0S3EBOhQ.jpg" height="250"/> <img src="/Files/papers-korea/7yUe9Mea.jpg" height="250"/> <img src="/Files/papers-australia/IMG_2685.jpg" height="250"/>
 
 ## Schizo Pages
 * [USA Schizo Page](/Files/papers-usa/HQfc0gGe.jpg)
