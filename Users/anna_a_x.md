@@ -26,3 +26,4 @@ No notes found
 [ XW4IBA ] CBC
 ```
 > Base 32 sections (all caps bracketed) `determination`
+> Top 5 bracketed sections decoded to game code
