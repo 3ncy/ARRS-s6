@@ -83,6 +83,11 @@ Images with references to the Pigpen cipher. They have by making the ***assumpti
   ```
   UEIDMIVEAMQULITSPATIMPTATUDIIATQORRTIUOSDRESETQMOLTASEETRISITTENSVPTBUMASALIAS
   ```
+* **AUSTRALIA Paragraph**
+  ```
+  KNEEVEDCOUDRAKMASHOURSMAMTNIGTSTRREDTAKEEDERFALO
+  ```
+  > no numbers here
 
 ## Circular Cipher 
 Seemingly references an atbash cipher
