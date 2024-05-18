@@ -22,6 +22,9 @@ SIGNED: CNDFDWC1TMks1VUtUN0Q0L
 > Using pattern of DNA --> `JVQ WW4 3JN VPU YX2S`
 > Base32 --> Maksim_L_R
 
+> Using pattern of DNA `TSj dEN C1D QzQ 2UC1`
+> Base64 with padding of 3x`A` --> `?J7D4-CC46P-`
+> Assuming this is part of a game code, following the format of other found keys, `UJ7D4-CC46P-`
 
 ### you_can_do_it.txt
 ```
@@ -42,3 +45,7 @@ YzL, MzM, VlU, QtQ
 > Adding some padding as shown: `AAA JVQ dEN 3JN QzQ YX2S TSj WW4 C1D VPU 2UC1 CNDFDWC1TMks1VUtUN0Q0L UNDM0YzLTZXMzM2LVlUVDVVVVY3RDQtQ0` <br>
 > decoding with base64 --> `à-CTõ6P-B41CX-S2K5UKT7D4-CC3F3-6W336-YTT5UUV7D4-C` <br>
 > split into chunks and assuming utf-8--> A-CTO6P-B41CX-S2K5U-<b>KT7D4-CC3F3-6W336-YTT5U</b>-UV7D4-C
+>
+> Using the striped Base64 alongside the SIGNED and remaining base64 provided us with the final EoD game key that has been claimed:
+> `AAATSj  dEN  C1D  QzQ  2UC1 CNDFDWC1TMks1VUtUN0Q0L UNDM0YzLTZXMzM2LVlUVDVVVVY3RDQtQ0` --> `?J7D4-CC46P-B41CX-S2K5UKT7D4-CC3F3-6W336-YTT5UUV7D4-C`
+> UJ7D4-CC46P-B41CX-S2K5U -> EoD EU game code, already activated by the time of documenting.
