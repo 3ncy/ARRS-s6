@@ -3,7 +3,6 @@
 ```
 DELETED
 ```
-> This account's password decrypts with Base64 to `stormishere.`
 ## notes
 
 No notes found
