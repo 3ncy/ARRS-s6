@@ -35,15 +35,10 @@ quest reward"]) --password--> overseer_lr4;
 
 
 
-    irl-usa --password--> UNCOPYRIGHTABLE;
-    irl-spain --password--> UNCOPYRIGHTABLE;
-    irl-korea --password--> UNCOPYRIGHTABLE;
-    irl-australia --password--> UNCOPYRIGHTABLE;
-
-    irl-usa --username--> UNCOPYRIGHTABLE;
-    irl-spain --username--> UNCOPYRIGHTABLE;
-    irl-korea --username--> UNCOPYRIGHTABLE;
-    irl-australia --username--> UNCOPYRIGHTABLE;
+    irl-usa --username/password--> UNCOPYRIGHTABLE;
+    irl-spain --username/password--> UNCOPYRIGHTABLE;
+    irl-korea --username/password--> UNCOPYRIGHTABLE;
+    irl-australia --username/password--> UNCOPYRIGHTABLE;
 
     UNCOPYRIGHTABLE --events in cameras--> anna_a_x;
     anna_a_x --> Viktor_S_O;
