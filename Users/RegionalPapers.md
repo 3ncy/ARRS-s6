@@ -6,11 +6,11 @@ Notify if any new files are missing under these categories
 ## PigPen Cipher Related
 Images with references to the Pigpen cipher.
 
-[PIGPEN SUMAMRY - INCOMPLETE](/Files/pigpenincomplete.png)
+[PIGPEN TABLE](/Files/pigpenincomplete.png)
 *  [USA Pigpen Cipher Letters](/Files/papers-usa/Lc38dvqL.jpg)
 *  [KOREA Pigpen Cipher Letter](/Files/papers-korea/-F8ZY__L.jpg)
 *  [AUSTRALIA Pigpen Letters](/Files/papers-australia/IMG_2687.jpg)
-*  [SPAIN (Likely) Pigpen Letters](/Files/papers-spain/M6FHvSGK.jpg)
+*  [SPAIN Pigpen Letters](/Files/papers-spain/M6FHvSGK.jpg)
 
 <img src="/Files/papers-usa/Lc38dvqL.jpg" height="200"/> <img src="/Files/papers-korea/-F8ZY__L.jpg" height="200"/> <img src="/Files/papers-australia/IMG_2687.jpg" height="200"/> <img src="/Files/papers-spain/M6FHvSGK.jpg" height="200"/> ⟹ <img src="/Files/pigpenincomplete.png" width="200" alt=">"/>
 
@@ -183,17 +183,3 @@ Seemingly references an atbash cipher or Bacon cipher
   P2:*****fj32m**********
   ```
   >  All parts combined: `ji32nfj32mf0mkewb209`
-
-## Drawings
-* [USA Drawing Page](/Files/papers-usa/qohmTIQa.jpg)
-* [SPAIN Scribbles](/Files/papers-spain/M6FHvSGK.jpg)
-* [KOREA Drawing](/Files/papers-korea/WOIz_AaX.jpg)
-* [AUSTRALIA Drawings](/Files/papers-australia/IMG_2683.jpg)
-
-## Misc 
-* [KOREA Outer notebook](/Files/papers-korea/ERawdmqK.jpg)
-* [USA Seethrough](/Files/papers-usa/teqEeTtl.jpg)
-
-  
-
-
