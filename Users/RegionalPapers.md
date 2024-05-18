@@ -163,7 +163,7 @@ Seemingly references an atbash cipher or Bacon cipher
 <br>
 
 # Part 2 Papers:
-<img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/> <img src="/Files/papers-australia-2/aus-code-paper.png" height="250"/>
+<img src="/Files/papers-spain-2/p3paper.png" height="250"/> <img src="/Files/papers-korea-2/20240518_002204.png" height="250"/> <img src="/Files/papers-australia-2/ARRS_-_Melbourne_Part_2.jpg" height="250"/> <img src="/Files/papers-usa-2/IMG_2597.png" height="250"/>
 
 * [SPAIN](/Files/papers-spain-2/p3paper.png)
   ```
