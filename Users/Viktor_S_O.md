@@ -19,6 +19,9 @@ DNA: TSj WW4  C1D  VPU  2UC1
 SIGNED: CNDFDWC1TMks1VUtUN0Q0L
 ```
 
+> Using pattern of DNA --> `JVQ WW4 3JN VPU YX2S`
+> Base32 --> Maksim_L_R
+
 
 ### you_can_do_it.txt
 ```
