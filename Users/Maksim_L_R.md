@@ -27,6 +27,8 @@ On my personal behalf, I want to say thank you. I've been making those puzzles s
 Best regards Mr. W.<br>
 MyQkMtSjhCRDktWEVLNVUg<br>
 
+> Combining the `MyQkM5SjhCRDktWEVLNVUg` section with previous pieces of Base64 from the Viktor_S_O account `UNDM0YzLTZXMzM2LVlUVDVVVVY3RDQtQ0`, provided decodable base64 of `UNDM0YzLTZXMzM2LVlUVDVVVVY3RDQtQ0 MyQkM5SjhCRDktWEVLNVUg`. When you pad the front with one character to get `AUNDM0YzLTZXMzM2LVlUVDVVVVY3RDQtQ0 MyQkM5SjhCRDktWEVLNVUg`, you can see a part of the last game code from Viktor_S_O, with a complete game code for this user. `CC3F3-6W336-YTT5UUV7D4-CC2BC-J8BD9-XEK5U ` UV7D4-CC2BC-J8BD9-XEK5U was an EoD EU game code that has been redeemed.
+
 ### systemmessage.txt
 ```
 !ERROR!
