@@ -25,7 +25,7 @@
 **Mr. Kerman:** So you need to do something you are pretty good at. Dig through the files and find the codes for the doors to the other rooms in the lab.<br>
 **Mr. Kerman:** Almost forgot. The security post had this. I think you'll figure it out.<br>
 **Mr. Kerman:** https://drive.google.com/drive/u/3/folders/1F5fwk5KnL3d8Me3lCBr87l5Jd-c3apgc *<# archived in [crossword.jpg](./crossword.jpg) #>* <br>
-**Mr. Kerman:** Mr. Souer be careful. This is all happening right now!<br>
+**Mr. Kerman:** Mr. Souer be careful. This is all happening right now! *<# mr_souer was streaming efforts of their group on Twitch and they were discussing whether are the chats pre-written or not. #>* <br>
 **Mr. Kerman:** It's just transportation and expense data. Nothing of interest. Better hurry up with the door.<br>
 **Mr. Kerman:** You got the door open? Good. I already got everything I needed. *<# after opening door2 #>*
 **Gal:** one sec<br>
@@ -50,7 +50,7 @@
 **Mr. Kerman:** https://drive.google.com/drive/u/3/folders/1kC0vbMvQ2sgu3bCN8JH8f5EV9Yvatm3N *<# contains the file [34534534.png](./34534534.png) #>*<br>
 **Mr. Kerman:** Looks like the Australian edition<br>
 
-**Mr. Kerman:** Sometimes the quotes are just quotes<br>
+**Mr. Kerman:** Sometimes the quotes are just quotes *<# In response to a streamed discussion about the [paper containing quotes](/Files/papers-usa/xIsfUFUJ.jpg) #>* <br>
 
 **Mr. Kerman:** You're in luck. I did a little digging through the security accounts and pulled out the code words *<# posted roughly at 18:47 CEST #>*<br>
 **Mr. Kerman:** So the word for "칼의 노래" would be "사지 死地"<br>
@@ -64,7 +64,7 @@
 **Mr. Kerman:** Be careful. There's an undercover agent among you. Someone is trying to leak information on me to the agent.<br>
 
 **Mr. Kerman:** The snake made a mistake in the second part *<# as a reaction to an error in a Python script (=snake) that was being used to solve a part of the puzzle on a stream #>*<br>
-**Mr. Kerman:** What the eye fears, the hands do<br>
+**Mr. Kerman:** What the eye fears, the hands do *<# Translation of the Russian idiom "Глаза боятся, а руки делают." being an encouragement to perform the decryption manually, instead of using a script #>* <br>
 
 *<# after unlocking the door3 at 14:10 CEST 17.05. #>*<br>
 **Mr. Kerman:** I see the door to the admin room is open. Hopefully, the informatin is in there<br>
