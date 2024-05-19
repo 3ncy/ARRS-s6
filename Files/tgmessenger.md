@@ -42,8 +42,8 @@
 **Mr. Kerman:** I've updated the info page in your user. Check it out<br>
 **Mr. Kerman:** I've also come across mentions of Ryzhy's dad..... I'll have to look for more, but only through the admin room.<br>
 **Mr. Kerman:** I need to get in there<br>
-**Mr. Kerman:** I need to get in to the room. So hurry up with the doors *<# sent roughly at 15:19, after a prolonged period of silence. The community was taking their time with solving other puzzles. #>*<br>
-**Mr. Kerman:** Sometimes some pages might hide the scratches, that could be useful *<# sent rouhly at 17:19, after we retreived some papers from USA and Korea #>*<br>
+**Mr. Kerman:** I need to get in to the room. So hurry up with the doors *<# sent roughly at 15:19 CEST, after a prolonged period of silence. The community was taking their time with solving other puzzles. #>*<br>
+**Mr. Kerman:** Sometimes some pages might hide the scratches, that could be useful *<# sent rouhly at 17:19 CEST, after we retreived some papers from USA and Korea #>*<br>
 **Mr. Kerman:** I hope you realized that this is the old way of encrypting messages? Just find the books listed. They have a certainword on the right page and line.<br>
 **Mr. Kerman:** It'll be the code for the liaison. It's a child's game<br>
 **Mr. Kerman:** I also found a photo of one of the books<br>
@@ -52,7 +52,7 @@
 
 **Mr. Kerman:** Sometimes the quotes are just quotes<br>
 
-**Mr. Kerman:** You're in luck. I did a little digging through the security accounts and pulled out the code words<br> *<# posted roughly at 18:47 #>*<br>
+**Mr. Kerman:** You're in luck. I did a little digging through the security accounts and pulled out the code words *<# posted roughly at 18:47 CEST #>*<br>
 **Mr. Kerman:** So the word for "칼의 노래" would be "사지 死地"<br>
 **Mr. Kerman:** For "To Kill a Mockingbird," we'll go with "Caution".<br>
 **Mr. Kerman:** tactical in the IT book<br>
@@ -60,11 +60,11 @@
 **Mr. Kerman:** It's got the word "libertad" in it<br>
 **Mr. Kerman:** Take it from here<br>
 
-**Mr. Kerman:** Hm, it seems that your people have obtained the coordinates from an agent and some of them has been found. There must be a password for the door in those notebooks. *<# posted on 18:55 CEST, after all the codewords have been discovered #>*<br>
+**Mr. Kerman:** Hm, it seems that your people have obtained the coordinates from an agent and some of them has been found. There must be a password for the door in those notebooks. *<# posted on 18:55 CEST 16.05., after all the codewords from books have been discovered and sent to the agent #>*<br>
 **Mr. Kerman:** Be careful. There's an undercover agent among you. Someone is trying to leak information on me to the agent.<br>
 
-**Mr. Kerman:** The snake made a mistake in the second part *<# some minutes before the door3 password was found #>*<br>
-**Mr. Kerman:** What the eye featrs, the hands do<br>
+**Mr. Kerman:** The snake made a mistake in the second part *<# as a reaction to an error in a Python script (=snake) that was being used to solve a part of the puzzle on a stream #>*<br>
+**Mr. Kerman:** What the eye fears, the hands do<br>
 
 *<# after unlocking the door3 at 14:10 CEST 17.05. #>*<br>
 **Mr. Kerman:** I see the door to the admin room is open. Hopefully, the informatin is in there<br>
