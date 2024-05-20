@@ -24,7 +24,7 @@
 **Mr. Kerman:** I'm going to search the office network for them now. But there's a good chance they're not here.<br>
 **Mr. Kerman:** So you need to do something you are pretty good at. Dig through the files and find the codes for the doors to the other rooms in the lab.<br>
 **Mr. Kerman:** Almost forgot. The security post had this. I think you'll figure it out.<br>
-**Mr. Kerman:** https://drive.google.com/drive/u/3/folders/1F5fwk5KnL3d8Me3lCBr87l5Jd-c3apgc *<# archived in [crossword.jpg](./crossword.jpg) #>* <br>
+**Mr. Kerman:** https://drive.google.com/drive/u/3/folders/1F5fwk5KnL3d8Me3lCBr87l5Jd-c3apgc *<# archived in [crossword.jpg](/Files/crossword.jpg), [crossword-solved](/Files/crossword-solved.png) #>* <br>
 **Mr. Kerman:** Mr. Souer be careful. This is all happening right now! *<# mr_souer was streaming efforts of their group on Twitch and they were discussing whether are the chats pre-written or not. #>* <br>
 **Mr. Kerman:** It's just transportation and expense data. Nothing of interest. Better hurry up with the door.<br>
 **Mr. Kerman:** You got the door open? Good. I already got everything I needed. *<# after opening door2 #>*
@@ -96,7 +96,7 @@
 **Mr. Kerman:** I hear everything *<# out of nowhere at 19:10 CEST, perhaps in a reaction to some banter in a voicechat that was being streamed to a Twitch which has been previously confirmed that it was watched by Mr. Kerman #>*<br>
 
 **Mr. Kerman:** Is the exit unlocked? Good. There's nothing more for me to do here *<# after opening door4 #>*<br>
-**Mr. Kerman:** Hmm. They're late. I was counting on someone thinking of sending their men to the lab sooner. *<# reference to some soldiers walking around on the cameras #>*<br>
+**Mr. Kerman:** Hmm. They're late. I was counting on someone thinking of sending their men to the lab sooner. *<# reference to some soldiers [walking around on the cameras](/Files/security-cameras.md#2120) #>*<br>
 **Mr. Kerman:** Check this one out, too.<br>
 **Mr. Kerman:** l: anna_a_x p: qvvos_zp_bfqvzku_yb *<# login to the account [anna_a_x](/Users/anna_a_x.md) #>*<br>
 **Mr. Kerman:** And most importantly, don't stay in the dark<br>

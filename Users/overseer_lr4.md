@@ -42,7 +42,10 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
 
 ## avialable additional commands
 - secmanager<br>
-  Enters a subprogram, background is showing an [overview of cameras](/Files/7a8be3493ca221ccb1b4ae46f163bc2d.mp4) ([png version](/Files/7a8be3493ca221ccb1b4ae46f163bc2d.png)).<br>
+  Enters a subprogram, background is showing an [overview of cameras](/Files/cameras/92f705925016eeddee2ba5a4ea265999.mp4) ([png version](/Files/cameras/92f705925016eeddee2ba5a4ea265999.png)).
+
+  More information about the cameras and how they changed throughout the time can be found in the [security-cameras](/Files/security-cameras.md) file.
+
   There are different commands available in this mode:
   - cam
     - as a parameter, use a camera name from: [234nf334ru4](overseer_lr4.md#234nf334ru4)
@@ -55,8 +58,9 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
     - opening a door requires a password
 - tgmessenger
   - Opens a live chat log with the operators of ARRS.
-  - An archive of the chat (as of 16:20 CEST 17.05.) is available [here](/Files/tgmessenger.md). <!--TODO: add comments into the file about when we opened doors etc -->
+  - An archive of the chat is available [here](/Files/tgmessenger.md). <!--TODO: add comments into the file about when we opened doors etc -->
 - userinformation
+  - Shows the `user` info (that can be found at the top of our files) about any account valid in this instance of ARRS.
 
 ### Secmanager Map representation:
 
@@ -65,8 +69,8 @@ Specific edition of the photo: Don Quijote de la Mancha (Miguel de Cervantes Saa
 ```mermaid
 graph TD;
 start{{Room 1: Door open}} --Door2 Pw:apmtwfcmsptg--> Room2
-Room2 --Door5 Pw:???--> Room5
-Room2 --Door4 Pw:???--> Room4
+Room2 --Door5 Pw:aym?o.!cpaye--> Room5
+Room2 --Door4 hasn't been opened --> Room4
 Room2 --Door3 Pw:216lem1899mol--> Room3
 Room4 --Open Hallway--> Exit2
 Room5 --Open Hallway--> Exit2
