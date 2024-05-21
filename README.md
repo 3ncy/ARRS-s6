@@ -60,3 +60,7 @@ Papers found on the IRL locations:
 
 ## Unused stuff
 - lines `d{6` and `dt*` from [kostochkin_g_b: TempData.data](https://github.com/3ncy/ARRS-s6/blob/main/Users/kostochkin_g_b.md#tempdatadata)
+
+## Russian document
+A similar documentation, from the Russian-speaking community, can be found here:
+- https://docs.google.com/spreadsheets/d/16h01skYXvhCrp7c9nkt-KqyKKqMFOXI3FHWFFmDb5Tk/preview
